@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Capture/指令序列.md",
+                "file": "0-Capture/分支選擇.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/指令序列.md",
+                "file": "0-Capture/分支選擇.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/指令序列.md",
+                "file": "0-Capture/分支選擇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/指令序列.md"
+                "file": "0-Capture/分支選擇.md"
               }
             }
           }
@@ -153,6 +153,9 @@
   "active": "94e575022ac56b68",
   "lastOpenFiles": [
     "0-Capture/Pseudo Code 虛擬碼-常用語法.md",
+    "0-Capture/分支選擇.md",
+    "輸入/輸出.md",
+    "輸入",
     "0-Capture/指令序列.md",
     "0-Capture/演算法名稱.md",
     "0-Capture/Pseudo Code 虛擬碼.md",
@@ -178,15 +181,12 @@
     "0-Capture/Obsidian 常用語法.md",
     "0-Capture/DSA.md",
     "0-Capture/DSA 20200324-Analysis Tools.md",
-    "0-Capture/DSA 20200317- Array & Linked List.md",
     "0-Capture/Analysis_Tools 1.pdf",
-    "Welcome.md",
     "_attenchments",
     "Z-樣板",
     "X-主題索引",
     "3-Archive",
     "2-Area",
-    "1-Project",
-    "0-Capture"
+    "1-Project"
   ]
 }
