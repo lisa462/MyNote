@@ -61,6 +61,7 @@ a := 1
 b ← a + 2
 c :=[100]
 
+//如果a大於等於2，就做標籤列印(Label_Print)，否則就
 if a ≥ 2 then
     goto Label_Print
 else
