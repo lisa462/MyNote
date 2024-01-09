@@ -18,6 +18,7 @@
 ### 範例
 ```
 // 氣泡排序
+//
  procedure Bubble(n:integer);
    var temp,i,j:integer;
    change:boolean;
@@ -61,7 +62,7 @@ a := 1
 b ← a + 2
 c :=[100]
 
-//如果a大於等於2，就做函數Label_Print())，否則就呼叫迴圈把a+100，直到
+//如果a大於等於2，就做函數Label_Print())，否則就呼叫迴圈把a+100，同時叫when直到j > 100為止。
 if a ≥ 2 then
     goto Label_Print
 else
