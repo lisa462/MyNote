@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/Welcome.md",
+                "file": "0-Capture/多益模擬測試題第4回 錯題本.md",
                 "mode": "preview",
                 "source": true
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#多益",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/Welcome.md",
+                "file": "0-Capture/多益模擬測試題第4回 錯題本.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,9 +104,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/Welcome.md",
+                "file": "0-Capture/多益模擬測試題第4回 錯題本.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -126,11 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/Welcome.md"
+                "file": "0-Capture/多益模擬測試題第4回 錯題本.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,13 +149,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "db4b19922343c366",
+  "active": "94e575022ac56b68",
   "lastOpenFiles": [
     "0-Capture/卡片盒筆記法.md",
+    "0-Capture/Obsidian的 個人使用說明.md",
     "1-Project/Welcome.md",
     "1-Project/考取多益730分.md",
     "1-Project/考上台大網媒所.md",
-    "0-Capture/Obsidian的 個人使用說明.md",
     "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md",
     "0-Capture/計算機結構DATA Struction.md",
     "0-Capture/Analysis_Tools.pdf",
