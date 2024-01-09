@@ -37,7 +37,7 @@
    end;
 
 // 插入排序
-//
+//把插入新ㄉ陣列內容，
 procedure insertsort(n:integer);
   var i,j:integer;
   begin
