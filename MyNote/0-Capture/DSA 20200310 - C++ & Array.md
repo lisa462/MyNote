@@ -35,6 +35,6 @@ https://www.youtube.com/watch?v=1yyu70Vy9Zc&list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb
 ### Ordered Array
 
 - an array of consecutive elements with ordered values.
-    - 有東西的櫃子拍按照特定順序，排在最前方。
-  ### 相關課程
-  [[]]
+- ### 相關課程
+  [[計算機結構DATA Struction]]
+      
