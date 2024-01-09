@@ -1,9 +1,12 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "0-Capture",
   "useMarkdownLinks": false,
   "attachmentFolderPath": "./attenchment",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "source",
+  "foldIndent": true,
+  "showIndentGuide": false
 }
