@@ -37,7 +37,7 @@
    end;
 
 // 插入排序
-//把插入新ㄉ陣列內容，
+//把插入新的內容，進入陣列。從第二個位置開始比較，若前一個位置比後一格
 procedure insertsort(n:integer);
   var i,j:integer;
   begin
