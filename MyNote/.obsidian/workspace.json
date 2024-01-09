@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "1-Project/Welcome.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -88,9 +88,9 @@
               "state": {
                 "file": "1-Project/Welcome.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94e575022ac56b68",
+  "active": "db4b19922343c366",
   "lastOpenFiles": [
     "0-Capture/卡片盒筆記法.md",
     "1-Project/Welcome.md",
