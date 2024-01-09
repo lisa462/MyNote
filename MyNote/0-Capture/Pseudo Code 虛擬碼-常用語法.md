@@ -18,7 +18,7 @@
 ### 範例
 ```
 // 氣泡排序
-//
+//比較陣列內容，若是第一個內容小於第二個內容，兩者交換。
  procedure Bubble(n:integer);
    var temp,i,j:integer;
    change:boolean;
@@ -37,6 +37,7 @@
    end;
 
 // 插入排序
+//
 procedure insertsort(n:integer);
   var i,j:integer;
   begin
