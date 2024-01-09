@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/考上台大網媒所.md",
-                "mode": "preview",
+                "file": "1-Project/Welcome.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/考上台大網媒所.md",
+                "file": "1-Project/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/考上台大網媒所.md",
+                "file": "1-Project/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/考上台大網媒所.md"
+                "file": "1-Project/Welcome.md"
               }
             }
           }
@@ -150,10 +150,11 @@
   },
   "active": "94e575022ac56b68",
   "lastOpenFiles": [
-    "1-Project/考取多益730分.md",
+    "0-Capture/卡片盒筆記法.md",
     "1-Project/Welcome.md",
+    "1-Project/考取多益730分.md",
     "1-Project/考上台大網媒所.md",
-    "0-Capture/卡片盒筆記法 法則.md",
+    "0-Capture/Obsidian的 個人使用說明.md",
     "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md",
     "0-Capture/計算機結構DATA Struction.md",
     "0-Capture/Analysis_Tools.pdf",
@@ -168,7 +169,6 @@
     "0-Capture/Q3-要學習計算機結構需要那些先備知識.md",
     "0-Capture/Q1-什麼是計算機結構.md",
     "0-Capture/Pseudo Code 虛擬碼.md",
-    "0-Capture/Obsidian的 個人使用說明.md",
     "0-Capture/Markdown語法.md",
     "0-Capture/Obsidian 常用語法.md",
     "0-Capture/DSA.md",

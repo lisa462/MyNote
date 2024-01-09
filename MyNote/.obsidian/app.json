@@ -4,5 +4,6 @@
   "newFileFolderPath": "0-Capture",
   "useMarkdownLinks": false,
   "attachmentFolderPath": "./attenchment",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
