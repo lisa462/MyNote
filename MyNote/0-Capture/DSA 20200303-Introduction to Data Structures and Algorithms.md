@@ -1,4 +1,5 @@
 標籤: #筆記卡 
+> 取自：https://www.youtube.com/watch?v=8IOv2fnc01E
 1. Introduction to Data Structures and Algorithms
 2. What is Algorithms ? 
     1. 譜
@@ -24,5 +25,3 @@ int getMinIndex(int* arr, int len){
 1. 資料結構較重視**程式（coding)、測試(test)和清除bug(debug )**的部分。
 
 
-出處
-https://www.youtube.com/watch?v=8IOv2fnc01E
