@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project/考取多益730分.md",
-                "mode": "source",
+                "file": "0-Capture/計算機結構DATA Struction.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project/考取多益730分.md",
+                "file": "0-Capture/計算機結構DATA Struction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project/考取多益730分.md",
+                "file": "0-Capture/計算機結構DATA Struction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project/考取多益730分.md"
+                "file": "0-Capture/計算機結構DATA Struction.md"
               }
             }
           }
@@ -150,7 +150,8 @@
   },
   "active": "94e575022ac56b68",
   "lastOpenFiles": [
-    "1-Project/台大網媒所.md",
+    "1-Project/考上台大網媒所.md",
+    "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md",
     "1-Project/考取多益730分.md",
     "0-Capture/DSA 20200310 - C++ & Array.md",
     "0-Capture/多益模擬測試題第4回 錯題本.md",
@@ -171,7 +172,6 @@
     "0-Capture/DSA 20200324-Linked List.md",
     "0-Capture/DSA 20200324-Analysis Tools.md",
     "0-Capture/DSA 20200317- Array & Linked List.md",
-    "DSA 20200303-Introduction to Data Structures and Algorithms.md",
     "0-Capture/Analysis_Tools.pdf",
     "0-Capture/Analysis_Tools 1.pdf",
     "Welcome.md",
