@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "add667b96708d48f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "58f3da1dcd4a1c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "d4dcf71c85b3b31d",
         "type": "tabs",
         "children": [
@@ -165,7 +147,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94e575022ac56b68",
+  "active": "cd5a5f8d4e68b373",
   "lastOpenFiles": [
     "_attenchments",
     "Z-樣板",
