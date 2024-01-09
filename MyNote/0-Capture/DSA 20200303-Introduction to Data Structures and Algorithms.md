@@ -1,7 +1,8 @@
-標籤: #台大 #網媒所 #筆記卡 
+標籤: #筆記卡 
 1. Introduction to Data Structures and Algorithms
-2. What is Algorithms ? 譜
-    1. computation _n._ 計算;估計
+2. What is Algorithms ? 
+    1. 譜
+    2. computation _n._ 計算;估計
 3. [[Pseudo Code 虛擬碼]]
 4. Introduction to Data Structures 介紹資料結構
 5. why Data Structures and Algorithms
