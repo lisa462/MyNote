@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Capture/賦值.md",
-                "mode": "source",
+                "file": "0-Capture/Pseudo Code 虛擬碼-常用語法.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/賦值.md",
+                "file": "0-Capture/Pseudo Code 虛擬碼-常用語法.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/賦值.md",
+                "file": "0-Capture/Pseudo Code 虛擬碼-常用語法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/賦值.md"
+                "file": "0-Capture/Pseudo Code 虛擬碼-常用語法.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "94e575022ac56b68",
   "lastOpenFiles": [
-    "0-Capture/Pseudo Code 虛擬碼-常用語法.md",
     "0-Capture/賦值.md",
+    "0-Capture/Pseudo Code 虛擬碼-常用語法.md",
     "0-Capture/分支選擇.md",
     "輸入/輸出.md",
     "輸入",
