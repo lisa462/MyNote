@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "0-Capture",
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "./attenchment"
+  "attachmentFolderPath": "./attenchment",
+  "promptDelete": false
 }
