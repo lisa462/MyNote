@@ -11,7 +11,6 @@
 		{"id":"9a12cccc7b37fbbf","type":"text","text":"BeV 和 一般動詞(Do/Does)","x":195,"y":-348,"width":250,"height":56},
 		{"id":"dd1a7ce6d1b5c970","type":"text","text":"肯定句，否定句，疑問句\n其中，否定句和疑問句，出現助動詞後面接V.R.","x":680,"y":-380,"width":250,"height":86},
 		{"id":"e588ba690646120d","type":"text","text":"疑問詞要倒裝，把動詞或BeV和Do/Does搬到前面，然後原文照寫。","x":996,"y":-429,"width":250,"height":86},
-		{"id":"620b0476bb2e4384","type":"text","text":"【現在分詞和過去分詞】\nV-ing，正在進行的、非人的(形容非人)、\nV-p.p. 已經完成的，使人..的(形容人)","x":1060,"y":79,"width":420,"height":101,"color":"2"},
 		{"id":"cf50e2b981939e07","type":"text","text":"達不明確時間的現在完成式用 Already、Yet、Just、Recently\n\ne.g. ","x":780,"y":-220,"width":250,"height":154},
 		{"id":"e819278ff5344ba7","type":"text","text":"4. 在完成式搭配 Since 與 For\n    1. Since 接 【特定的時間點】，如某時、某日、某年\n    2. For 接【一段持續的時間】，如兩分鐘、三小時、一年","x":620,"y":-700,"width":250,"height":298},
 		{"id":"1b31c0088c0b3da7","type":"text","text":"【時間介係詞in、on、at】\nin+ 一天以上的時間，或是年、月、季節 eg. in 2024, in Summer\non+特定的日子 eg. I work to go\nat + 時間點，eg. I wake up at 7:00 a.m","x":-620,"y":412,"width":392,"height":146},
@@ -25,12 +24,13 @@
 		{"id":"39c38d0ec23847af","type":"text","text":"動詞片語","x":-55,"y":-676,"width":250,"height":61},
 		{"id":"e9dea339ef79318e","type":"text","text":"介係詞片語","x":-322,"y":-675,"width":250,"height":60},
 		{"id":"d21e1e4d8c720810","type":"text","text":"名詞和代名詞","x":-40,"y":272,"width":250,"height":50},
-		{"id":"25a15fd86264ac54","type":"text","text":"【標記】\n紅色-重要，必背。需要相關表格\n橘色-不知道，把問題丟到[[文法問題]]","x":1068,"y":-702,"width":332,"height":86,"color":"3"},
+		{"id":"25a15fd86264ac54","type":"text","text":"【標記】\n紅色-重要，必背。需要相關表格\n橘色-不知道，把問題丟到[[文法問題]]","x":1068,"y":-702,"width":332,"height":87,"color":"4"},
 		{"id":"7075ffa684a59068","type":"text","text":"【未來式】，will/Be going  to","x":180,"y":41,"width":250,"height":56},
 		{"id":"67529f4fbec58c80","type":"text","text":"【表過去習慣Used to】\n句型：Used to + V.R.\nE.g. I used to play game","x":480,"y":26,"width":250,"height":86},
 		{"id":"87612a5603f4ae03","type":"text","text":"【Wh-疑問詞 + Do的任一形式】\nWho-誰，問人\nWhat-什麼-事情\nWhen-時間\nWhere-地點\nHow-如何(會搭配其他名詞)","x":726,"y":80,"width":334,"height":165},
 		{"id":"2305c584fb8a8cc5","type":"text","text":"名詞的規則變化\n直接+s\n母音+y，ay/ey/iy/oy/uy，直接+s\nCVC + 重複字尾+es","x":1000,"y":302,"width":250,"height":146},
-		{"id":"fe6a2ca3059f52e3","type":"text","text":"名詞的不規則變化\nman-men","x":1000,"y":502,"width":250,"height":56,"color":"1"}
+		{"id":"fe6a2ca3059f52e3","type":"text","text":"名詞的不規則變化\nman-men","x":1000,"y":502,"width":250,"height":56,"color":"1"},
+		{"id":"620b0476bb2e4384","type":"text","text":"【現在分詞和過去分詞】\nV-ing，正在進行的、非人的(形容非人)、主動active\nV-p.p. 已經完成的，使人..的(形容人)、被動passion","x":1125,"y":80,"width":420,"height":116}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
