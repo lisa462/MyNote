@@ -10,10 +10,10 @@
 		{"id":"e7caf3cd29300b88","x":640,"y":-351,"width":250,"height":60,"type":"text","text":"Simple Prensent"},
 		{"id":"ed6d38f436c8429f","x":640,"y":-267,"width":250,"height":60,"type":"text","text":"Prensent Progression"},
 		{"id":"258c4e878f277b0a","x":640,"y":-184,"width":250,"height":60,"type":"text","text":"Perfect Prensent"},
-		{"id":"8a50886cc7e8e9ae","x":200,"y":-30,"width":250,"height":60,"type":"text","text":"Past"},
 		{"id":"ccefa24cf7560c9f","type":"text","text":"Future","x":200,"y":90,"width":250,"height":60},
 		{"id":"753c03ff49a4a343","x":640,"y":-90,"width":250,"height":60,"type":"text","text":"Simple past"},
-		{"id":"5e5e337fd3ba2fef","x":637,"y":-16,"width":250,"height":60,"type":"text","text":""}
+		{"id":"5e5e337fd3ba2fef","x":637,"y":-16,"width":250,"height":60,"type":"text","text":""},
+		{"id":"8a50886cc7e8e9ae","x":200,"y":-80,"width":250,"height":60,"type":"text","text":"Past"}
 	],
 	"edges":[
 		{"id":"9a3af0f5ebe8c63f","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"0d154b300fa1382b","toSide":"left"},
