@@ -8,17 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5465971414538a9",
+            "id": "3077c665a745d5ee",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "0-Capture/未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -69,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -90,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
+                "file": "0-Capture/未命名.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
+                "file": "0-Capture/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/English Grammer.canvas"
+                "file": "0-Capture/未命名.md"
               }
             }
           },
@@ -161,10 +159,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5465971414538a9",
+  "active": "3077c665a745d5ee",
   "lastOpenFiles": [
-    "未命名.canvas",
     "0-Capture/English Grammer.canvas",
+    "0-Capture/未命名.md",
+    "未命名.canvas",
     "0-Capture/attenchment/Pasted image 20240110144738.png",
     "0-Capture/attenchment/Pasted image 20240110144728.png",
     "0-Capture/attenchment/Pasted image 20240110144716.png",
@@ -178,7 +177,6 @@
     "attenchment/Pasted image 20240110143443.png",
     "attenchment/Pasted image 20240110143420.png",
     "attenchment",
-    "0-Capture/未命名.md",
     "0-Capture/Obsidian的 個人使用說明.md",
     "0-Capture/卡片盒筆記法.md",
     "0-Capture/計算機結構DATA Struction.md",
