@@ -29,7 +29,8 @@
 		{"id":"b8dd4e9f0171007e","type":"text","text":"名詞片語","x":-590,"y":-675,"width":250,"height":60},
 		{"id":"39c38d0ec23847af","type":"text","text":"動詞片語","x":-55,"y":-676,"width":250,"height":61},
 		{"id":"e9dea339ef79318e","type":"text","text":"介係詞片語","x":-322,"y":-675,"width":250,"height":60},
-		{"id":"d21e1e4d8c720810","type":"text","text":"名詞和代名詞","x":-40,"y":272,"width":250,"height":50}
+		{"id":"d21e1e4d8c720810","type":"text","text":"名詞和代名詞","x":-40,"y":272,"width":250,"height":50},
+		{"id":"25a15fd86264ac54","x":1068,"y":-702,"width":332,"height":182,"type":"text","text":"【標記】\n紅色-重要，必背。需要相關表格\n橘色-不知道，要"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -62,5 +63,4 @@
 		{"id":"0dadba86d036f22b","fromNode":"b06284ddc99d412d","fromSide":"top","toNode":"b8dd4e9f0171007e","toSide":"bottom"},
 		{"id":"e8e557bc6576fd96","fromNode":"b06284ddc99d412d","fromSide":"top","toNode":"e9dea339ef79318e","toSide":"bottom"},
 		{"id":"19dd2fd9380477e2","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"d21e1e4d8c720810","toSide":"top"}
-	]
-}
+	
