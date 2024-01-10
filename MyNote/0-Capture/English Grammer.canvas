@@ -1,4 +1,11 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"1c008f1d480e0299","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"文法"},
+		{"id":"88f005ebb4931e0d","x":320,"y":-120,"width":250,"height":60,"type":"text","text":"現在式，現在簡單式，現在進行式，現在完成式"},
+		{"id":"b2f102eb6d70ea43","x":352,"y":9,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
+		{"id":"3bd2141749e3ed2a","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"b2f102eb6d70ea43","toSide":"left"}
+	]
 }
