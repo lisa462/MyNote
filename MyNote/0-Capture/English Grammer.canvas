@@ -7,7 +7,8 @@
 		{"id":"ecfadaf929f0338d","x":300,"y":200,"width":250,"height":60,"type":"text","text":"Wh-疑問詞"},
 		{"id":"3cb6e724e0041203","x":726,"y":-43,"width":250,"height":60,"type":"text","text":"動詞變化-過去-過去分詞"},
 		{"id":"0be2958ec2c4fbb2","x":1084,"y":-260,"width":250,"height":185,"type":"text","text":"動詞規則變化\n直接+ed\n母音+y，ay/ey/iy/oy/uy，直接+ed\nCVC + 重複字尾+ed"},
-		{"id":"27f4e090a881585b","x":1076,"y":-19,"width":250,"height":60,"type":"text","text":"動詞不規則變化"}
+		{"id":"27f4e090a881585b","x":1076,"y":-19,"width":250,"height":60,"color":"1","type":"text","text":"動詞不規則變化，必背\ntoke-too-taket"},
+		{"id":"d21e1e4d8c720810","x":175,"y":300,"width":250,"height":60,"type":"text","text":"名詞和代名詞"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -17,6 +18,7 @@
 		{"id":"9037c70fe310aa32","fromNode":"b2f102eb6d70ea43","fromSide":"right","toNode":"3cb6e724e0041203","toSide":"left"},
 		{"id":"1c1de76a634db296","fromNode":"88f005ebb4931e0d","fromSide":"right","toNode":"3cb6e724e0041203","toSide":"top"},
 		{"id":"c21c3a0a3cc12875","fromNode":"3cb6e724e0041203","fromSide":"right","toNode":"0be2958ec2c4fbb2","toSide":"left"},
-		{"id":"0c6e9e09efcc6323","fromNode":"3cb6e724e0041203","fromSide":"right","toNode":"27f4e090a881585b","toSide":"left"}
+		{"id":"0c6e9e09efcc6323","fromNode":"3cb6e724e0041203","fromSide":"right","toNode":"27f4e090a881585b","toSide":"left"},
+		{"id":"db90d98b17785106","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"d21e1e4d8c720810","toSide":"left"}
 	]
 }
