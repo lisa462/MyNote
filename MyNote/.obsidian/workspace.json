@@ -171,14 +171,14 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "1fa243c2ea4a965a",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-01-10 16.22.23.excalidraw.md",
+    "0-Capture/2024-01-10.md",
     "0-Capture/文法問題.md",
+    "Excalidraw/Drawing 2024-01-10 16.22.23.excalidraw.md",
     "Excalidraw",
     "0-Capture/English Grammer.canvas",
     "1-Project/考上台大網媒所.md",
@@ -218,7 +218,6 @@
     "0-Capture/分支選擇.md",
     "0-Capture/輸入",
     "0-Capture/Pseudo Code 虛擬碼.md",
-    "0-Capture/Markdown語法.md",
     "0-Capture/Analysis_Tools.pdf",
     "0-Capture/多益第4回模擬測試錯題本.pdf",
     "0-Capture/Analysis_Tools 1.pdf",
