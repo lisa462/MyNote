@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d207ed83b119da07",
+        "id": "0aca5a2088b9622c",
         "type": "tabs",
         "children": [
           {
-            "id": "3077c665a745d5ee",
+            "id": "68fdaf9c28c6784d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "0-Capture/English Grammer.canvas",
                 "viewState": {
-                  "x": -315,
-                  "y": -30,
+                  "x": 0,
+                  "y": 0,
                   "zoom": 0
                 }
               }
@@ -74,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82b034148f0497e2",
@@ -162,14 +161,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3077c665a745d5ee",
+  "active": "68fdaf9c28c6784d",
   "lastOpenFiles": [
+    "0-Capture/English Grammer.canvas",
     "0-Capture/第一章 現在式.md",
     "0-Capture/Simple Present.md",
     "0-Capture/attenchment/Pasted image 20240110150136.png",
     "0-Capture/attenchment/Pasted image 20240110150112.png",
     "0-Capture/attenchment/Pasted image 20240110145208.png",
-    "0-Capture/English Grammer.canvas",
     "未命名.canvas",
     "0-Capture/attenchment/Pasted image 20240110144738.png",
     "0-Capture/attenchment/Pasted image 20240110144728.png",
@@ -204,7 +203,6 @@
     "0-Capture/Markdown語法.md",
     "0-Capture/布林代數.md",
     "1-Project/Welcome.md",
-    "1-Project/考上台大網媒所.md",
     "0-Capture/Analysis_Tools.pdf",
     "0-Capture/多益第4回模擬測試錯題本.pdf",
     "0-Capture/Analysis_Tools 1.pdf",
