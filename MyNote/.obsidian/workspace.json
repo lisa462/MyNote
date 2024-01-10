@@ -15,8 +15,8 @@
               "state": {
                 "file": "0-Capture/English Grammer.canvas",
                 "viewState": {
-                  "x": 229,
-                  "y": 208.25,
+                  "x": 926.5,
+                  "y": -140.5,
                   "zoom": 0
                 }
               }
@@ -35,7 +35,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/文法問題.md",
+                "file": "0-Capture/English Grammer.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/文法問題.md",
+                "file": "0-Capture/English Grammer.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/文法問題.md"
+                "file": "0-Capture/English Grammer.canvas"
               }
             }
           },
@@ -175,10 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1fa243c2ea4a965a",
+  "active": "68fdaf9c28c6784d",
   "lastOpenFiles": [
-    "0-Capture/English Grammer.canvas",
     "0-Capture/文法問題.md",
+    "0-Capture/English Grammer.canvas",
     "1-Project/考上台大網媒所.md",
     "1-Project/考取多益730分.md",
     "0-Capture/多益模擬測試題第4回 錯題本.md",
