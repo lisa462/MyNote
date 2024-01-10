@@ -11,12 +11,8 @@
             "id": "3077c665a745d5ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Capture/1-1 現在簡單式與現在進行式(Simple Present and Present Progress).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -88,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/1-1 現在簡單式與現在進行式(Simple Present and Present Progress).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/1-1 現在簡單式與現在進行式(Simple Present and Present Progress).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0-Capture/1-1 現在簡單式與現在進行式(Simple Present and Present Progress).md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,9 +153,9 @@
   },
   "active": "3077c665a745d5ee",
   "lastOpenFiles": [
+    "0-Capture/1-1 現在簡單式與現在進行式(Simple Present and Present Progress).md",
     "0-Capture/attenchment/Pasted image 20240110145208.png",
     "0-Capture/English Grammer.canvas",
-    "0-Capture/1-1 現在簡單式與現在進行式(Simple Present and Present Progress).md",
     "未命名.canvas",
     "0-Capture/attenchment/Pasted image 20240110144738.png",
     "0-Capture/attenchment/Pasted image 20240110144728.png",
