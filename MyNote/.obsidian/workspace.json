@@ -11,14 +11,11 @@
             "id": "68fdaf9c28c6784d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
-                "viewState": {
-                  "x": 1270,
-                  "y": 13.25,
-                  "zoom": 0
-                }
+                "file": "0-Capture/文法問題.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -90,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
+                "file": "0-Capture/文法問題.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
+                "file": "0-Capture/文法問題.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/English Grammer.canvas"
+                "file": "0-Capture/文法問題.md"
               }
             }
           },
@@ -163,8 +160,8 @@
   },
   "active": "68fdaf9c28c6784d",
   "lastOpenFiles": [
-    "0-Capture/文法問題.md",
     "0-Capture/English Grammer.canvas",
+    "0-Capture/文法問題.md",
     "1-Project/Welcome.md",
     "1-Project/考取多益730分.md",
     "0-Capture/2024-01-10.md",
