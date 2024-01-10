@@ -1,22 +1,23 @@
 {
 	"nodes":[
-		{"id":"1c008f1d480e0299","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"文法"},
-		{"id":"88f005ebb4931e0d","x":320,"y":-120,"width":250,"height":56,"type":"text","text":"【現在式】現在簡單式，現在進行式，現在完成式，現在完成進行式"},
-		{"id":"b2f102eb6d70ea43","x":352,"y":9,"width":250,"height":60,"type":"text","text":"過去式，過去簡單式，過去進行式，過去完成式"},
-		{"id":"7075ffa684a59068","x":280,"y":90,"width":250,"height":60,"type":"text","text":"未來式，will/Be going  to"},
-		{"id":"ecfadaf929f0338d","x":300,"y":200,"width":250,"height":60,"type":"text","text":"Wh-疑問詞"},
-		{"id":"3cb6e724e0041203","x":726,"y":-43,"width":250,"height":60,"type":"text","text":"動詞變化-過去-過去分詞"},
-		{"id":"0be2958ec2c4fbb2","x":1084,"y":-260,"width":250,"height":185,"type":"text","text":"動詞規則變化\n直接+ed\n母音+y，ay/ey/iy/oy/uy，直接+ed\nCVC + 重複字尾+ed"},
-		{"id":"27f4e090a881585b","x":1076,"y":-19,"width":250,"height":60,"color":"1","type":"text","text":"動詞不規則變化，必背\ntoke-too-taket"},
-		{"id":"d21e1e4d8c720810","x":175,"y":300,"width":250,"height":60,"type":"text","text":"名詞和代名詞"},
-		{"id":"3e1800b39ca18edb","x":633,"y":272,"width":250,"height":60,"type":"text","text":"名詞的單複數形"},
-		{"id":"cc401357aa91857a","x":609,"y":399,"width":250,"height":60,"type":"text","text":"Other, the other and another的用法"},
-		{"id":"87612a5603f4ae03","x":660,"y":69,"width":285,"height":165,"type":"text","text":"Who-誰，問人\nWhat-什麼-事情\nWhen-時間\nWhere-地點\nHow-如何(會搭配其他名詞)"},
-		{"id":"9a12cccc7b37fbbf","x":195,"y":-348,"width":250,"height":60,"type":"text","text":"BeV 和 一般動詞(Do/Does)"},
-		{"id":"dd1a7ce6d1b5c970","x":680,"y":-380,"width":250,"height":92,"type":"text","text":"肯定句，否定句，疑問句\n其中，否定句和疑問句，出現助動詞後面接V.R."},
-		{"id":"e588ba690646120d","x":996,"y":-429,"width":250,"height":86,"type":"text","text":"疑問詞要倒裝，把動詞或BeV和Do/Does搬到前面，然後原文照寫。"},
-		{"id":"2305c584fb8a8cc5","x":976,"y":212,"width":250,"height":60,"type":"text","text":"名詞的規則變化\n直接+s"},
-		{"id":"fe6a2ca3059f52e3","x":976,"y":332,"width":250,"height":60,"color":"1","type":"text","text":"名詞的不規則變化\nman-men"}
+		{"id":"1c008f1d480e0299","type":"text","text":"文法","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"88f005ebb4931e0d","type":"text","text":"【現在式】現在簡單式，現在進行式，現在完成式，現在完成進行式","x":320,"y":-120,"width":250,"height":56},
+		{"id":"b2f102eb6d70ea43","type":"text","text":"過去式，過去簡單式，過去進行式，過去完成式","x":352,"y":9,"width":250,"height":60},
+		{"id":"7075ffa684a59068","type":"text","text":"未來式，will/Be going  to","x":280,"y":90,"width":250,"height":60},
+		{"id":"ecfadaf929f0338d","type":"text","text":"Wh-疑問詞","x":300,"y":200,"width":250,"height":60},
+		{"id":"3cb6e724e0041203","type":"text","text":"動詞變化-過去-過去分詞\n動詞變化-現在分詞","x":726,"y":-43,"width":250,"height":60},
+		{"id":"0be2958ec2c4fbb2","type":"text","text":"動詞規則變化\n直接+ed\n母音+y，ay/ey/iy/oy/uy，直接+ed\nCVC + 重複字尾+ed","x":1084,"y":-260,"width":250,"height":185},
+		{"id":"27f4e090a881585b","type":"text","text":"動詞不規則變化，必背\ntoke-too-taket","x":1076,"y":-19,"width":250,"height":60,"color":"1"},
+		{"id":"d21e1e4d8c720810","type":"text","text":"名詞和代名詞","x":175,"y":300,"width":250,"height":60},
+		{"id":"3e1800b39ca18edb","type":"text","text":"名詞的單複數形","x":633,"y":272,"width":250,"height":60},
+		{"id":"cc401357aa91857a","type":"text","text":"Other, the other and another的用法","x":609,"y":399,"width":250,"height":60},
+		{"id":"87612a5603f4ae03","type":"text","text":"Who-誰，問人\nWhat-什麼-事情\nWhen-時間\nWhere-地點\nHow-如何(會搭配其他名詞)","x":660,"y":69,"width":285,"height":165},
+		{"id":"9a12cccc7b37fbbf","type":"text","text":"BeV 和 一般動詞(Do/Does)","x":195,"y":-348,"width":250,"height":60},
+		{"id":"dd1a7ce6d1b5c970","type":"text","text":"肯定句，否定句，疑問句\n其中，否定句和疑問句，出現助動詞後面接V.R.","x":680,"y":-380,"width":250,"height":92},
+		{"id":"e588ba690646120d","type":"text","text":"疑問詞要倒裝，把動詞或BeV和Do/Does搬到前面，然後原文照寫。","x":996,"y":-429,"width":250,"height":86},
+		{"id":"2305c584fb8a8cc5","type":"text","text":"名詞的規則變化\n直接+s","x":976,"y":212,"width":250,"height":60},
+		{"id":"fe6a2ca3059f52e3","type":"text","text":"名詞的不規則變化\nman-men","x":976,"y":332,"width":250,"height":60,"color":"1"},
+		{"id":"620b0476bb2e4384","x":1060,"y":79,"width":250,"height":60,"type":"text","text":"現在分詞和過去分詞"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -35,6 +36,7 @@
 		{"id":"ecfd2c95ab15e37d","fromNode":"ecfadaf929f0338d","fromSide":"right","toNode":"87612a5603f4ae03","toSide":"left"},
 		{"id":"baa4f2bb27733179","fromNode":"88f005ebb4931e0d","fromSide":"top","toNode":"9a12cccc7b37fbbf","toSide":"bottom"},
 		{"id":"d1f5d65acc2f8dfc","fromNode":"88f005ebb4931e0d","fromSide":"top","toNode":"dd1a7ce6d1b5c970","toSide":"bottom"},
-		{"id":"83cab379b828d583","fromNode":"dd1a7ce6d1b5c970","fromSide":"right","toNode":"e588ba690646120d","toSide":"left"}
+		{"id":"83cab379b828d583","fromNode":"dd1a7ce6d1b5c970","fromSide":"right","toNode":"e588ba690646120d","toSide":"left"},
+		{"id":"c557d4da113d57f9","fromNode":"3cb6e724e0041203","fromSide":"bottom","toNode":"620b0476bb2e4384","toSide":"left"}
 	]
 }
