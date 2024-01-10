@@ -12,7 +12,9 @@
 		{"id":"3e1800b39ca18edb","x":633,"y":272,"width":250,"height":60,"type":"text","text":"名詞的單複數形"},
 		{"id":"2305c584fb8a8cc5","x":945,"y":174,"width":250,"height":60,"type":"text","text":"名詞的規則變化\n直接+s"},
 		{"id":"fe6a2ca3059f52e3","x":945,"y":303,"width":250,"height":60,"color":"1","type":"text","text":"名詞的不規則變化"},
-		{"id":"cc401357aa91857a","x":609,"y":399,"width":250,"height":60,"type":"text","text":"Other, the other and another的用法"}
+		{"id":"cc401357aa91857a","x":609,"y":399,"width":250,"height":60,"type":"text","text":"Other, the other and another的用法"},
+		{"id":"87612a5603f4ae03","x":660,"y":114,"width":250,"height":60,"type":"text","text":"Who,what,How,"},
+		{"id":"9a12cccc7b37fbbf","x":511,"y":-321,"width":250,"height":60,"type":"text","text":"BeV 和 一般ㄉㄨㄥ"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -27,6 +29,8 @@
 		{"id":"61d7313ded90c773","fromNode":"d21e1e4d8c720810","fromSide":"right","toNode":"3e1800b39ca18edb","toSide":"left"},
 		{"id":"ae246da8581bca45","fromNode":"3e1800b39ca18edb","fromSide":"right","toNode":"2305c584fb8a8cc5","toSide":"left"},
 		{"id":"e0b98c6818eaba73","fromNode":"3e1800b39ca18edb","fromSide":"right","toNode":"fe6a2ca3059f52e3","toSide":"left"},
-		{"id":"89663027658ee7e5","fromNode":"d21e1e4d8c720810","fromSide":"right","toNode":"cc401357aa91857a","toSide":"left"}
+		{"id":"89663027658ee7e5","fromNode":"d21e1e4d8c720810","fromSide":"right","toNode":"cc401357aa91857a","toSide":"left"},
+		{"id":"ecfd2c95ab15e37d","fromNode":"ecfadaf929f0338d","fromSide":"right","toNode":"87612a5603f4ae03","toSide":"left"},
+		{"id":"baa4f2bb27733179","fromNode":"88f005ebb4931e0d","fromSide":"top","toNode":"9a12cccc7b37fbbf","toSide":"bottom"}
 	]
 }
