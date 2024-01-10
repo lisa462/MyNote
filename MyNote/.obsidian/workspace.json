@@ -11,14 +11,11 @@
             "id": "68fdaf9c28c6784d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "0-Capture/第一章 現在式.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -90,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
+                "file": "0-Capture/第一章 現在式.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/English Grammer.canvas",
+                "file": "0-Capture/第一章 現在式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -130,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/English Grammer.canvas"
+                "file": "0-Capture/第一章 現在式.md"
               }
             }
           },
