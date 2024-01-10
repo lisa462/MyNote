@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Capture/第一章 現在式.md",
+                "file": "1-Project/考取多益730分.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/第一章 現在式.md",
+                "file": "1-Project/考取多益730分.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/第一章 現在式.md",
+                "file": "1-Project/考取多益730分.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/第一章 現在式.md"
+                "file": "1-Project/考取多益730分.md"
               }
             }
           },
@@ -160,8 +159,11 @@
   },
   "active": "68fdaf9c28c6784d",
   "lastOpenFiles": [
-    "0-Capture/English Grammer.canvas",
+    "0-Capture/多益模擬測試題第4回 錯題本.md",
+    "1-Project/考取多益730分.md",
+    "1-Project/考上台大網媒所.md",
     "0-Capture/第一章 現在式.md",
+    "0-Capture/English Grammer.canvas",
     "0-Capture/Simple Present.md",
     "0-Capture/attenchment/Pasted image 20240110150136.png",
     "0-Capture/attenchment/Pasted image 20240110150112.png",
@@ -172,7 +174,6 @@
     "0-Capture/attenchment/Pasted image 20240110144716.png",
     "0-Capture/attenchment/Pasted image 20240110144659.png",
     "0-Capture/attenchment",
-    "1-Project/考取多益730分.md",
     "0-Capture/輸入/輸出.md",
     "attenchment/Pasted image 20240110143513.png",
     "attenchment/Pasted image 20240110143503.png",
@@ -196,7 +197,6 @@
     "0-Capture/分支選擇.md",
     "0-Capture/輸入",
     "0-Capture/Pseudo Code 虛擬碼.md",
-    "0-Capture/多益模擬測試題第4回 錯題本.md",
     "0-Capture/Markdown語法.md",
     "0-Capture/布林代數.md",
     "1-Project/Welcome.md",
