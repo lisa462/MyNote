@@ -11,11 +11,14 @@
             "id": "6b24dcfdba28b9ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "0-Capture/Obsidian的 個人使用說明.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -87,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/Obsidian的 個人使用說明.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/Obsidian的 個人使用說明.md",
+                "file": "未命名.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/Obsidian的 個人使用說明.md"
+                "file": "未命名.canvas"
               }
             }
           },
@@ -160,6 +163,7 @@
   },
   "active": "6b24dcfdba28b9ee",
   "lastOpenFiles": [
+    "0-Capture/Obsidian的 個人使用說明.md",
     "0-Capture/卡片盒筆記法.md",
     "0-Capture/計算機結構DATA Struction.md",
     "未命名.canvas",
@@ -183,7 +187,6 @@
     "0-Capture/Markdown語法.md",
     "0-Capture/布林代數.md",
     "1-Project/Welcome.md",
-    "0-Capture/Obsidian的 個人使用說明.md",
     "1-Project/考取多益730分.md",
     "1-Project/考上台大網媒所.md",
     "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md",
