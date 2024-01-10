@@ -12,7 +12,7 @@
 		{"id":"3e1800b39ca18edb","x":633,"y":272,"width":250,"height":60,"type":"text","text":"名詞的單複數形"},
 		{"id":"2305c584fb8a8cc5","x":945,"y":174,"width":250,"height":60,"type":"text","text":"名詞的規則變化\n直接+s"},
 		{"id":"cc401357aa91857a","x":609,"y":399,"width":250,"height":60,"type":"text","text":"Other, the other and another的用法"},
-		{"id":"87612a5603f4ae03","x":660,"y":114,"width":250,"height":60,"type":"text","text":"Who,what,How,"},
+		{"id":"87612a5603f4ae03","x":660,"y":90,"width":250,"height":144,"type":"text","text":"Who-誰，問人\nWhat-什麼-事情\nWhen=\nWhere\nHow"},
 		{"id":"9a12cccc7b37fbbf","x":195,"y":-348,"width":250,"height":60,"type":"text","text":"BeV 和 一般動詞(Do/Does)"},
 		{"id":"dd1a7ce6d1b5c970","x":680,"y":-380,"width":250,"height":92,"type":"text","text":"肯定句，否定句，疑問句\n其中，否定句和疑問句，出現助動詞後面接V.R."},
 		{"id":"e588ba690646120d","x":996,"y":-429,"width":250,"height":86,"type":"text","text":"疑問詞要倒裝，把動詞或BeV和Do/Does搬到前面，然後原文照寫。"},
