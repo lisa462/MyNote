@@ -1,16 +1,17 @@
 {
 	"nodes":[
-		{"id":"a743b4c5fd13210e","x":240,"y":-160,"width":250,"height":60,"type":"text","text":""},
 		{"id":"ecd5bf9edb812c41","x":-190,"y":0,"width":250,"height":60,"type":"text","text":"Time tense"},
-		{"id":"0d154b300fa1382b","x":200,"y":-80,"width":250,"height":60,"type":"text","text":"現在式"},
-		{"id":"ccefa24cf7560c9f","type":"text","text":"未來式","x":200,"y":120,"width":250,"height":60},
-		{"id":"8a50886cc7e8e9ae","x":260,"y":30,"width":250,"height":60,"type":"text","text":"過去式"},
-		{"id":"e65dec980e3e9c04","x":-520,"y":0,"width":250,"height":60,"type":"text","text":"Grammar"}
+		{"id":"0d154b300fa1382b","x":200,"y":-80,"width":250,"height":60,"type":"text","text":"Prensent"},
+		{"id":"ccefa24cf7560c9f","type":"text","text":"Future","x":200,"y":120,"width":250,"height":60},
+		{"id":"8a50886cc7e8e9ae","x":260,"y":30,"width":250,"height":60,"type":"text","text":"Past"},
+		{"id":"e65dec980e3e9c04","x":-520,"y":0,"width":250,"height":60,"type":"text","text":"Grammar"},
+		{"id":"a743b4c5fd13210e","x":540,"y":-110,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"bde9600d2cc91359","fromNode":"0d154b300fa1382b","fromSide":"right","toNode":"a743b4c5fd13210e","toSide":"left"},
 		{"id":"9a3af0f5ebe8c63f","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"0d154b300fa1382b","toSide":"left"},
 		{"id":"49cbf9e26c1f7161","fromNode":"e65dec980e3e9c04","fromSide":"right","toNode":"ecd5bf9edb812c41","toSide":"left"},
-		{"id":"de59985aef7075f5","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"8a50886cc7e8e9ae","toSide":"left"}
+		{"id":"de59985aef7075f5","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"8a50886cc7e8e9ae","toSide":"left"},
+		{"id":"8cb2899bfd3d3328","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"ccefa24cf7560c9f","toSide":"left"}
 	]
 }
