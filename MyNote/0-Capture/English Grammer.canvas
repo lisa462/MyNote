@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"1c008f1d480e0299","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"文法"},
-		{"id":"88f005ebb4931e0d","x":320,"y":-120,"width":250,"height":56,"type":"text","text":"現在式，現在簡單式，現在進行式，現在完成式，現在完成進行式"},
+		{"id":"88f005ebb4931e0d","x":320,"y":-120,"width":250,"height":56,"type":"text","text":"【現在式】現在簡單式，現在進行式，現在完成式，現在完成進行式"},
 		{"id":"b2f102eb6d70ea43","x":352,"y":9,"width":250,"height":60,"type":"text","text":"過去式，過去簡單式，過去進行式，過去完成式"},
 		{"id":"7075ffa684a59068","x":280,"y":90,"width":250,"height":60,"type":"text","text":"未來式，will/Be going  to"},
 		{"id":"ecfadaf929f0338d","x":300,"y":200,"width":250,"height":60,"type":"text","text":"Wh-疑問詞"},
@@ -10,8 +10,9 @@
 		{"id":"27f4e090a881585b","x":1076,"y":-19,"width":250,"height":60,"color":"1","type":"text","text":"動詞不規則變化，必背\ntoke-too-taket"},
 		{"id":"d21e1e4d8c720810","x":175,"y":300,"width":250,"height":60,"type":"text","text":"名詞和代名詞"},
 		{"id":"3e1800b39ca18edb","x":633,"y":272,"width":250,"height":60,"type":"text","text":"名詞的單複數形"},
-		{"id":"2305c584fb8a8cc5","x":945,"y":174,"width":250,"height":60,"type":"text","text":"名詞的規則變化"},
-		{"id":"fe6a2ca3059f52e3","x":945,"y":303,"width":250,"height":60,"color":"1","type":"text","text":"名詞的不規則變化"}
+		{"id":"2305c584fb8a8cc5","x":945,"y":174,"width":250,"height":60,"type":"text","text":"名詞的規則變化\n直接+s"},
+		{"id":"fe6a2ca3059f52e3","x":945,"y":303,"width":250,"height":60,"color":"1","type":"text","text":"名詞的不規則變化"},
+		{"id":"cc401357aa91857a","x":609,"y":399,"width":250,"height":60,"type":"text","text":"Other, the other and another的用法"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -25,6 +26,7 @@
 		{"id":"db90d98b17785106","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"d21e1e4d8c720810","toSide":"left"},
 		{"id":"61d7313ded90c773","fromNode":"d21e1e4d8c720810","fromSide":"right","toNode":"3e1800b39ca18edb","toSide":"left"},
 		{"id":"ae246da8581bca45","fromNode":"3e1800b39ca18edb","fromSide":"right","toNode":"2305c584fb8a8cc5","toSide":"left"},
-		{"id":"e0b98c6818eaba73","fromNode":"3e1800b39ca18edb","fromSide":"right","toNode":"fe6a2ca3059f52e3","toSide":"left"}
+		{"id":"e0b98c6818eaba73","fromNode":"3e1800b39ca18edb","fromSide":"right","toNode":"fe6a2ca3059f52e3","toSide":"left"},
+		{"id":"89663027658ee7e5","fromNode":"d21e1e4d8c720810","fromSide":"right","toNode":"cc401357aa91857a","toSide":"left"}
 	]
 }
