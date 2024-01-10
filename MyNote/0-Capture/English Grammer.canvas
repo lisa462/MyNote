@@ -5,15 +5,14 @@
 		{"id":"e7a48d8f37f6f880","type":"text","text":"Question","x":-180,"y":0,"width":250,"height":60},
 		{"id":"28d4eb487692fcf9","type":"text","text":"Noun & Pronoun","x":-180,"y":150,"width":250,"height":60},
 		{"id":"0d154b300fa1382b","type":"text","text":"Prensent","x":200,"y":-264,"width":250,"height":60},
-		{"id":"6a20da45b1477a0c","type":"text","text":"![[Pasted image 20240110143420.png]]![[Pasted image 20240110143443.png]]![[Pasted image 20240110143453.png]]![[Pasted image 20240110143503.png]]![[Pasted image 20240110143513.png]]","x":-900,"y":-166,"width":250,"height":384,"color":"2"},
-		{"id":"7ef6b5319ad413bf","type":"text","text":"W","x":-180,"y":240,"width":250,"height":60},
 		{"id":"e7caf3cd29300b88","type":"text","text":"1-1 現在簡單式與現在進行式(Simple present and Present Progressive)\n![[Pasted image 20240110144659.png]]","x":640,"y":-500,"width":250,"height":236},
 		{"id":"ccefa24cf7560c9f","type":"text","text":"Future","x":200,"y":90,"width":250,"height":60},
 		{"id":"753c03ff49a4a343","type":"text","text":"Simple past","x":640,"y":-90,"width":250,"height":60},
-		{"id":"5e5e337fd3ba2fef","type":"text","text":"","x":637,"y":-16,"width":250,"height":60},
 		{"id":"8a50886cc7e8e9ae","type":"text","text":"Past","x":200,"y":-110,"width":250,"height":60},
-		{"id":"aca812ce8ccf570e","x":644,"y":-185,"width":250,"height":60,"type":"text","text":"1-3 單/複數(Singular/Plural)"},
-		{"id":"258c4e878f277b0a","type":"text","text":"1-2 現在簡單式與現在進行式之句型\n","x":640,"y":-264,"width":250,"height":60}
+		{"id":"aca812ce8ccf570e","type":"text","text":"1-3 單/複數(Singular/Plural)","x":644,"y":-185,"width":250,"height":60},
+		{"id":"258c4e878f277b0a","type":"text","text":"1-2 現在簡單式與現在進行式之句型\n![[Pasted image 20240110144738.png]]","x":640,"y":-264,"width":250,"height":248},
+		{"id":"7ef6b5319ad413bf","type":"text","text":"W","x":-430,"y":420,"width":250,"height":60},
+		{"id":"5e5e337fd3ba2fef","type":"text","text":"","x":680,"y":90,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"9a3af0f5ebe8c63f","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"0d154b300fa1382b","toSide":"left"},
@@ -22,7 +21,6 @@
 		{"id":"8cb2899bfd3d3328","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"ccefa24cf7560c9f","toSide":"left"},
 		{"id":"33e2eb1a1a74703e","fromNode":"e65dec980e3e9c04","fromSide":"right","toNode":"e7a48d8f37f6f880","toSide":"left"},
 		{"id":"216ff8cb52da0b27","fromNode":"e65dec980e3e9c04","fromSide":"right","toNode":"28d4eb487692fcf9","toSide":"left"},
-		{"id":"a6ef1453ffaec731","fromNode":"6a20da45b1477a0c","fromSide":"right","toNode":"e65dec980e3e9c04","toSide":"left"},
 		{"id":"60ee4f68380d1093","fromNode":"e65dec980e3e9c04","fromSide":"bottom","toNode":"7ef6b5319ad413bf","toSide":"left"},
 		{"id":"c6bed73625b48525","fromNode":"0d154b300fa1382b","fromSide":"right","toNode":"e7caf3cd29300b88","toSide":"left"},
 		{"id":"315404a14130051c","fromNode":"0d154b300fa1382b","fromSide":"right","toNode":"258c4e878f277b0a","toSide":"left"},
