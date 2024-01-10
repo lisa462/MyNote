@@ -3,11 +3,16 @@
 		{"id":"1c008f1d480e0299","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"文法"},
 		{"id":"88f005ebb4931e0d","x":320,"y":-120,"width":250,"height":56,"type":"text","text":"現在式，現在簡單式，現在進行式，現在完成式，現在完成進行式"},
 		{"id":"b2f102eb6d70ea43","x":352,"y":9,"width":250,"height":60,"type":"text","text":"過去式，過去簡單式，過去進行式，過去完成式"},
-		{"id":"7075ffa684a59068","x":280,"y":90,"width":250,"height":60,"type":"text","text":"未來式，will/Be going  to"}
+		{"id":"7075ffa684a59068","x":280,"y":90,"width":250,"height":60,"type":"text","text":"未來式，will/Be going  to"},
+		{"id":"ecfadaf929f0338d","x":300,"y":200,"width":250,"height":60,"type":"text","text":"Wh-疑問詞"},
+		{"id":"3cb6e724e0041203","x":726,"y":-43,"width":250,"height":60,"type":"text","text":"動詞變化-過去-過去分詞"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
 		{"id":"3bd2141749e3ed2a","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"b2f102eb6d70ea43","toSide":"left"},
-		{"id":"09e81b7fe7e5ab6a","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"7075ffa684a59068","toSide":"left"}
+		{"id":"09e81b7fe7e5ab6a","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"7075ffa684a59068","toSide":"left"},
+		{"id":"be59d8b9e46ac643","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"ecfadaf929f0338d","toSide":"left"},
+		{"id":"9037c70fe310aa32","fromNode":"b2f102eb6d70ea43","fromSide":"right","toNode":"3cb6e724e0041203","toSide":"left"},
+		{"id":"1c1de76a634db296","fromNode":"88f005ebb4931e0d","fromSide":"right","toNode":"3cb6e724e0041203","toSide":"top"}
 	]
 }
