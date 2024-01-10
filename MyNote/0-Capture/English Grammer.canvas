@@ -25,7 +25,11 @@
 		{"id":"c0b742fbc7d7c8fe","type":"text","text":"【詞類】\n動詞 V \n名詞 n","x":-375,"y":-220,"width":250,"height":86,"color":"2"},
 		{"id":"047fc097822ff727","x":-611,"y":-371,"width":250,"height":60,"type":"text","text":"How + adj/adv."},
 		{"id":"c29efa4a0d48fe94","x":-845,"y":-200,"width":250,"height":146,"type":"text","text":"【What..for 和 How come】\n= Why \n其中，How come 後面接主詞+動詞(S. + V.)"},
-		{"id":"c864bfb83505123c","x":-1031,"y":-331,"width":250,"height":60,"type":"text","text":"介係詞+ N."}
+		{"id":"c864bfb83505123c","x":-1031,"y":-331,"width":250,"height":60,"type":"text","text":"介係詞+ N."},
+		{"id":"b06284ddc99d412d","x":-340,"y":-480,"width":120,"height":60,"type":"text","text":"片語"},
+		{"id":"b8dd4e9f0171007e","x":-590,"y":-675,"width":250,"height":60,"type":"text","text":"名詞片語"},
+		{"id":"39c38d0ec23847af","x":-55,"y":-676,"width":250,"height":61,"type":"text","text":"動詞片語"},
+		{"id":"e9dea339ef79318e","x":-340,"y":-675,"width":250,"height":60,"type":"text","text":"介係詞片語"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -53,6 +57,10 @@
 		{"id":"dd27b3866837da8f","fromNode":"1c008f1d480e0299","fromSide":"top","toNode":"c0b742fbc7d7c8fe","toSide":"right"},
 		{"id":"802a7a23776a1cc9","fromNode":"c0b742fbc7d7c8fe","fromSide":"left","toNode":"047fc097822ff727","toSide":"bottom"},
 		{"id":"2adb09ee9f05ecf2","fromNode":"c0b742fbc7d7c8fe","fromSide":"left","toNode":"c29efa4a0d48fe94","toSide":"right"},
-		{"id":"3da7d65beb8233ce","fromNode":"c0b742fbc7d7c8fe","fromSide":"left","toNode":"c864bfb83505123c","toSide":"right"}
+		{"id":"3da7d65beb8233ce","fromNode":"c0b742fbc7d7c8fe","fromSide":"left","toNode":"c864bfb83505123c","toSide":"right"},
+		{"id":"8d6f4f1e76fe714f","fromNode":"c0b742fbc7d7c8fe","fromSide":"top","toNode":"b06284ddc99d412d","toSide":"bottom"},
+		{"id":"5b0c6cf43fa9f733","fromNode":"b06284ddc99d412d","fromSide":"top","toNode":"39c38d0ec23847af","toSide":"bottom"},
+		{"id":"0dadba86d036f22b","fromNode":"b06284ddc99d412d","fromSide":"top","toNode":"b8dd4e9f0171007e","toSide":"bottom"},
+		{"id":"e8e557bc6576fd96","fromNode":"b06284ddc99d412d","fromSide":"top","toNode":"e9dea339ef79318e","toSide":"bottom"}
 	]
 }
