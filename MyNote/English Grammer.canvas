@@ -7,7 +7,7 @@
 		{"id":"0d154b300fa1382b","x":200,"y":-264,"width":250,"height":60,"type":"text","text":"Prensent"},
 		{"id":"8a50886cc7e8e9ae","x":200,"y":-154,"width":250,"height":60,"type":"text","text":"Past"},
 		{"id":"ccefa24cf7560c9f","type":"text","text":"Future","x":200,"y":-34,"width":250,"height":60},
-		{"id":"6a20da45b1477a0c","x":-940,"y":-4,"width":250,"height":60,"type":"text","text":"![[Pasted image 20240110143420.png]]"}
+		{"id":"6a20da45b1477a0c","x":-900,"y":-166,"width":250,"height":384,"color":"2","type":"text","text":"![[Pasted image 20240110143420.png]]![[Pasted image 20240110143443.png]]![[Pasted image 20240110143453.png]]![[Pasted image 20240110143503.png]]![[Pasted image 20240110143513.png]]"}
 	],
 	"edges":[
 		{"id":"9a3af0f5ebe8c63f","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"0d154b300fa1382b","toSide":"left"},
