@@ -15,7 +15,7 @@
               "state": {
                 "file": "0-Capture/English Grammer.canvas",
                 "viewState": {
-                  "x": 789.7786458333334,
+                  "x": 988.4733072916667,
                   "y": -224.1946614583333,
                   "zoom": -0.7733223944592413
                 }
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82b034148f0497e2",
