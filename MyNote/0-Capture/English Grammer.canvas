@@ -18,7 +18,8 @@
 		{"id":"2305c584fb8a8cc5","type":"text","text":"名詞的規則變化\n直接+s","x":976,"y":212,"width":250,"height":60},
 		{"id":"fe6a2ca3059f52e3","type":"text","text":"名詞的不規則變化\nman-men","x":976,"y":332,"width":250,"height":60,"color":"1"},
 		{"id":"620b0476bb2e4384","x":1060,"y":79,"width":420,"height":101,"color":"2","type":"text","text":"【現在分詞和過去分詞】\nV-ing，正在進行的、非人的(形容非人)、\nV-p.p. 已經完成的，使人..的(形容人)"},
-		{"id":"1b31c0088c0b3da7","x":33,"y":484,"width":392,"height":146,"type":"text","text":"【時間介係詞in、on、at】\nin+ 一天以上的時間，或是年、月、季節 eg. in 2024, in Summer\non+特定的日子 eg. I work to go\nat + 時間點，eg. I wake up at 7:00 a.m"}
+		{"id":"1b31c0088c0b3da7","x":33,"y":484,"width":392,"height":146,"type":"text","text":"【時間介係詞in、on、at】\nin+ 一天以上的時間，或是年、月、季節 eg. in 2024, in Summer\non+特定的日子 eg. I work to go\nat + 時間點，eg. I wake up at 7:00 a.m"},
+		{"id":"67529f4fbec58c80","x":458,"y":113,"width":250,"height":60,"type":"text","text":"【表過去習慣Used to】\n句型：Uesd to + V.R.\nE"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -39,6 +40,7 @@
 		{"id":"d1f5d65acc2f8dfc","fromNode":"88f005ebb4931e0d","fromSide":"top","toNode":"dd1a7ce6d1b5c970","toSide":"bottom"},
 		{"id":"83cab379b828d583","fromNode":"dd1a7ce6d1b5c970","fromSide":"right","toNode":"e588ba690646120d","toSide":"left"},
 		{"id":"c557d4da113d57f9","fromNode":"3cb6e724e0041203","fromSide":"bottom","toNode":"620b0476bb2e4384","toSide":"left"},
-		{"id":"e4f4b5e43c7f3e44","fromNode":"d21e1e4d8c720810","fromSide":"bottom","toNode":"1b31c0088c0b3da7","toSide":"top"}
+		{"id":"e4f4b5e43c7f3e44","fromNode":"d21e1e4d8c720810","fromSide":"bottom","toNode":"1b31c0088c0b3da7","toSide":"top"},
+		{"id":"41ae3e39d2493cfc","fromNode":"b2f102eb6d70ea43","fromSide":"bottom","toNode":"67529f4fbec58c80","toSide":"top"}
 	]
 }
