@@ -14,7 +14,8 @@
 		{"id":"fe6a2ca3059f52e3","x":945,"y":303,"width":250,"height":60,"color":"1","type":"text","text":"名詞的不規則變化"},
 		{"id":"cc401357aa91857a","x":609,"y":399,"width":250,"height":60,"type":"text","text":"Other, the other and another的用法"},
 		{"id":"87612a5603f4ae03","x":660,"y":114,"width":250,"height":60,"type":"text","text":"Who,what,How,"},
-		{"id":"9a12cccc7b37fbbf","x":511,"y":-321,"width":250,"height":60,"type":"text","text":"BeV 和 一般ㄉㄨㄥ"}
+		{"id":"9a12cccc7b37fbbf","x":511,"y":-321,"width":250,"height":60,"type":"text","text":"BeV 和 一般動詞(Do/Does)"},
+		{"id":"dd1a7ce6d1b5c970","x":870,"y":-348,"width":250,"height":60,"type":"text","text":"肯定句，否定句，疑問句\n其中，否定句和疑問句，出現助動詞後面接ㄩㄢ"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -31,6 +32,7 @@
 		{"id":"e0b98c6818eaba73","fromNode":"3e1800b39ca18edb","fromSide":"right","toNode":"fe6a2ca3059f52e3","toSide":"left"},
 		{"id":"89663027658ee7e5","fromNode":"d21e1e4d8c720810","fromSide":"right","toNode":"cc401357aa91857a","toSide":"left"},
 		{"id":"ecfd2c95ab15e37d","fromNode":"ecfadaf929f0338d","fromSide":"right","toNode":"87612a5603f4ae03","toSide":"left"},
-		{"id":"baa4f2bb27733179","fromNode":"88f005ebb4931e0d","fromSide":"top","toNode":"9a12cccc7b37fbbf","toSide":"bottom"}
+		{"id":"baa4f2bb27733179","fromNode":"88f005ebb4931e0d","fromSide":"top","toNode":"9a12cccc7b37fbbf","toSide":"bottom"},
+		{"id":"d1f5d65acc2f8dfc","fromNode":"88f005ebb4931e0d","fromSide":"top","toNode":"dd1a7ce6d1b5c970","toSide":"bottom"}
 	]
 }
