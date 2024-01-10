@@ -7,12 +7,13 @@
 		{"id":"0d154b300fa1382b","type":"text","text":"Prensent","x":200,"y":-264,"width":250,"height":60},
 		{"id":"6a20da45b1477a0c","type":"text","text":"![[Pasted image 20240110143420.png]]![[Pasted image 20240110143443.png]]![[Pasted image 20240110143453.png]]![[Pasted image 20240110143503.png]]![[Pasted image 20240110143513.png]]","x":-900,"y":-166,"width":250,"height":384,"color":"2"},
 		{"id":"7ef6b5319ad413bf","type":"text","text":"W","x":-180,"y":240,"width":250,"height":60},
-		{"id":"e7caf3cd29300b88","type":"text","text":"Simple present and Present Progressive","x":640,"y":-351,"width":250,"height":60},
+		{"id":"e7caf3cd29300b88","type":"text","text":"現在簡單式與現在進行式(Simple present and Present Progressive)","x":640,"y":-400,"width":250,"height":109},
 		{"id":"ccefa24cf7560c9f","type":"text","text":"Future","x":200,"y":90,"width":250,"height":60},
 		{"id":"753c03ff49a4a343","type":"text","text":"Simple past","x":640,"y":-90,"width":250,"height":60},
 		{"id":"5e5e337fd3ba2fef","type":"text","text":"","x":637,"y":-16,"width":250,"height":60},
 		{"id":"8a50886cc7e8e9ae","type":"text","text":"Past","x":200,"y":-110,"width":250,"height":60},
-		{"id":"258c4e878f277b0a","type":"text","text":"現在簡單式與現在進行式之句型","x":640,"y":-240,"width":250,"height":60}
+		{"id":"258c4e878f277b0a","type":"text","text":"現在簡單式與現在進行式之句型","x":640,"y":-240,"width":250,"height":60},
+		{"id":"aca812ce8ccf570e","x":644,"y":-185,"width":250,"height":60,"type":"text","text":"1-3 單/ㄈ"}
 	],
 	"edges":[
 		{"id":"9a3af0f5ebe8c63f","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"0d154b300fa1382b","toSide":"left"},
@@ -26,6 +27,7 @@
 		{"id":"c6bed73625b48525","fromNode":"0d154b300fa1382b","fromSide":"right","toNode":"e7caf3cd29300b88","toSide":"left"},
 		{"id":"315404a14130051c","fromNode":"0d154b300fa1382b","fromSide":"right","toNode":"258c4e878f277b0a","toSide":"left"},
 		{"id":"ef07604a8d3e1073","fromNode":"8a50886cc7e8e9ae","fromSide":"right","toNode":"753c03ff49a4a343","toSide":"left"},
-		{"id":"bff25057b5b8cac5","fromNode":"8a50886cc7e8e9ae","fromSide":"right","toNode":"5e5e337fd3ba2fef","toSide":"left"}
+		{"id":"bff25057b5b8cac5","fromNode":"8a50886cc7e8e9ae","fromSide":"right","toNode":"5e5e337fd3ba2fef","toSide":"left"},
+		{"id":"e3eb1ee2f5709f57","fromNode":"0d154b300fa1382b","fromSide":"right","toNode":"aca812ce8ccf570e","toSide":"left"}
 	]
 }
