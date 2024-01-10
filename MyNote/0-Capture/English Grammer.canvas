@@ -22,7 +22,9 @@
 		{"id":"1b31c0088c0b3da7","type":"text","text":"【時間介係詞in、on、at】\nin+ 一天以上的時間，或是年、月、季節 eg. in 2024, in Summer\non+特定的日子 eg. I work to go\nat + 時間點，eg. I wake up at 7:00 a.m","x":-620,"y":412,"width":392,"height":146},
 		{"id":"d21e1e4d8c720810","type":"text","text":"名詞和代名詞","x":-478,"y":228,"width":250,"height":28},
 		{"id":"cc401357aa91857a","type":"text","text":"Other, the other and another的用法","x":360,"y":460,"width":250,"height":60,"color":"2"},
-		{"id":"c0b742fbc7d7c8fe","type":"text","text":"【詞類】\n動詞 V 名詞 n ","x":-375,"y":-220,"width":250,"height":60}
+		{"id":"c0b742fbc7d7c8fe","type":"text","text":"【詞類】\n動詞 V \n名詞 n","x":-375,"y":-220,"width":250,"height":60,"color":"2"},
+		{"id":"047fc097822ff727","x":-611,"y":-371,"width":250,"height":60,"type":"text","text":"How + adj/adv."},
+		{"id":"c29efa4a0d48fe94","x":-845,"y":-200,"width":250,"height":60,"type":"text","text":"What..for 和 How come】"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -47,6 +49,8 @@
 		{"id":"41ae3e39d2493cfc","fromNode":"b2f102eb6d70ea43","fromSide":"bottom","toNode":"67529f4fbec58c80","toSide":"top"},
 		{"id":"f3258d2d16375be7","fromNode":"88f005ebb4931e0d","fromSide":"right","toNode":"cf50e2b981939e07","toSide":"left"},
 		{"id":"acaa40a8166b69b9","fromNode":"88f005ebb4931e0d","fromSide":"top","toNode":"e819278ff5344ba7","toSide":"left"},
-		{"id":"dd27b3866837da8f","fromNode":"1c008f1d480e0299","fromSide":"top","toNode":"c0b742fbc7d7c8fe","toSide":"right"}
+		{"id":"dd27b3866837da8f","fromNode":"1c008f1d480e0299","fromSide":"top","toNode":"c0b742fbc7d7c8fe","toSide":"right"},
+		{"id":"802a7a23776a1cc9","fromNode":"c0b742fbc7d7c8fe","fromSide":"left","toNode":"047fc097822ff727","toSide":"bottom"},
+		{"id":"2adb09ee9f05ecf2","fromNode":"c0b742fbc7d7c8fe","fromSide":"left","toNode":"c29efa4a0d48fe94","toSide":"right"}
 	]
 }
