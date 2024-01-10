@@ -24,7 +24,7 @@
 		{"id":"cc401357aa91857a","type":"text","text":"Other, the other and another的用法","x":360,"y":460,"width":250,"height":60,"color":"2"},
 		{"id":"c0b742fbc7d7c8fe","type":"text","text":"【詞類】\n動詞 V \n名詞 n","x":-375,"y":-220,"width":250,"height":60,"color":"2"},
 		{"id":"047fc097822ff727","x":-611,"y":-371,"width":250,"height":60,"type":"text","text":"How + adj/adv."},
-		{"id":"c29efa4a0d48fe94","x":-845,"y":-200,"width":250,"height":60,"type":"text","text":"What..for 和 How come】"}
+		{"id":"c29efa4a0d48fe94","x":-845,"y":-200,"width":250,"height":146,"type":"text","text":"【What..for 和 How come】\n= Why \n其中，How come 後面接主詞+動詞(S. + V.)"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
