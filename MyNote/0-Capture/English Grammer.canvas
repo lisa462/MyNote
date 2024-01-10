@@ -6,7 +6,7 @@
 		{"id":"7075ffa684a59068","x":280,"y":90,"width":250,"height":60,"type":"text","text":"未來式，will/Be going  to"},
 		{"id":"ecfadaf929f0338d","x":300,"y":200,"width":250,"height":60,"type":"text","text":"Wh-疑問詞"},
 		{"id":"3cb6e724e0041203","x":726,"y":-43,"width":250,"height":60,"type":"text","text":"動詞變化-過去-過去分詞"},
-		{"id":"0be2958ec2c4fbb2","x":1084,"y":-135,"width":250,"height":60,"type":"text","text":"動詞規則變化\nV+ed\nCVC + 重複字尾+ed"},
+		{"id":"0be2958ec2c4fbb2","x":1084,"y":-260,"width":250,"height":185,"type":"text","text":"動詞規則變化\n直接+ed\n母音+y，ay/ey/iy/oy/uy，直接+ed\nCVC + 重複字尾+ed"},
 		{"id":"27f4e090a881585b","x":1076,"y":-19,"width":250,"height":60,"type":"text","text":"動詞不規則變化"}
 	],
 	"edges":[
