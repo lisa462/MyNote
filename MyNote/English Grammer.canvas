@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"e65dec980e3e9c04","x":-520,"y":0,"width":250,"height":60,"type":"text","text":"Grammar"},
+		{"id":"ecd5bf9edb812c41","x":-180,"y":-140,"width":250,"height":60,"type":"text","text":"Time tense"},
+		{"id":"e7a48d8f37f6f880","x":-180,"y":0,"width":250,"height":60,"type":"text","text":"Wh-Qustion"},
+		{"id":"28d4eb487692fcf9","x":-180,"y":150,"width":250,"height":60,"type":"text","text":"Noun & Pronoun"},
+		{"id":"0d154b300fa1382b","x":200,"y":-264,"width":250,"height":60,"type":"text","text":"Prensent"},
+		{"id":"8a50886cc7e8e9ae","x":200,"y":-154,"width":250,"height":60,"type":"text","text":"Past"},
+		{"id":"ccefa24cf7560c9f","type":"text","text":"Future","x":200,"y":-34,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9a3af0f5ebe8c63f","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"0d154b300fa1382b","toSide":"left"},
+		{"id":"49cbf9e26c1f7161","fromNode":"e65dec980e3e9c04","fromSide":"right","toNode":"ecd5bf9edb812c41","toSide":"left"},
+		{"id":"de59985aef7075f5","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"8a50886cc7e8e9ae","toSide":"left"},
+		{"id":"8cb2899bfd3d3328","fromNode":"ecd5bf9edb812c41","fromSide":"right","toNode":"ccefa24cf7560c9f","toSide":"left"},
+		{"id":"33e2eb1a1a74703e","fromNode":"e65dec980e3e9c04","fromSide":"right","toNode":"e7a48d8f37f6f880","toSide":"left"},
+		{"id":"216ff8cb52da0b27","fromNode":"e65dec980e3e9c04","fromSide":"right","toNode":"28d4eb487692fcf9","toSide":"left"}
+	]
+}
