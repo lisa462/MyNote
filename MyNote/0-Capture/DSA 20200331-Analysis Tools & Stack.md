@@ -57,9 +57,14 @@ F/g 約小於等於 c
 			* 比較花時間的項目是什麼?
 			* Big-O最低上限，N平方就是N平方。的
 			* 
-### Practical Complexity![[Pasted image 20240111203452.png]]
+### Practical Complexity
+![[Pasted image 20240111203452.png]]
 表格 y時間/空間 = 資料量 + n基底
 
-# Stack 堆疊 02
-## intuition
+## Stack 堆疊 [02]()
+### intuition
+
+
+
+
 
