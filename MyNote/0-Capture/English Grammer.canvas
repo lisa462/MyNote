@@ -30,7 +30,8 @@
 		{"id":"87612a5603f4ae03","type":"text","text":"【Wh-疑問詞 + Do的任一形式】\nWho-誰，問人\nWhat-什麼-事情\nWhen-時間\nWhere-地點\nHow-如何(會搭配其他名詞)","x":726,"y":80,"width":334,"height":165},
 		{"id":"2305c584fb8a8cc5","type":"text","text":"名詞的規則變化\n直接+s\n母音+y，ay/ey/iy/oy/uy，直接+s\nCVC + 重複字尾+es","x":1000,"y":302,"width":250,"height":146},
 		{"id":"fe6a2ca3059f52e3","type":"text","text":"名詞的不規則變化\nman-men","x":1000,"y":502,"width":250,"height":56,"color":"1"},
-		{"id":"620b0476bb2e4384","type":"text","text":"【現在分詞和過去分詞】\nV-ing，正在進行的、非人的(形容非人)、主動active\nV-p.p. 已經完成的，使人..的(形容人)、被動passion","x":1125,"y":80,"width":420,"height":116}
+		{"id":"620b0476bb2e4384","type":"text","text":"【現在分詞和過去分詞】\nV-ing，正在進行的、非人的(形容非人)、主動active\nV-p.p. 已經完成的，使人..的(形容人)、被動passion","x":1125,"y":80,"width":420,"height":116},
+		{"id":"40ce4ed30b76f6bb","x":-319,"y":-888,"width":250,"height":60,"type":"text","text":"介係詞+受格(N.)"}
 	],
 	"edges":[
 		{"id":"7d3b963608b5e3f4","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"88f005ebb4931e0d","toSide":"left"},
@@ -62,6 +63,7 @@
 		{"id":"5b0c6cf43fa9f733","fromNode":"b06284ddc99d412d","fromSide":"top","toNode":"39c38d0ec23847af","toSide":"bottom"},
 		{"id":"0dadba86d036f22b","fromNode":"b06284ddc99d412d","fromSide":"top","toNode":"b8dd4e9f0171007e","toSide":"bottom"},
 		{"id":"e8e557bc6576fd96","fromNode":"b06284ddc99d412d","fromSide":"top","toNode":"e9dea339ef79318e","toSide":"bottom"},
-		{"id":"19dd2fd9380477e2","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"d21e1e4d8c720810","toSide":"top"}
+		{"id":"19dd2fd9380477e2","fromNode":"1c008f1d480e0299","fromSide":"right","toNode":"d21e1e4d8c720810","toSide":"top"},
+		{"id":"01fc78d6faf73ba3","fromNode":"e9dea339ef79318e","fromSide":"top","toNode":"40ce4ed30b76f6bb","toSide":"bottom"}
 	]
 }
