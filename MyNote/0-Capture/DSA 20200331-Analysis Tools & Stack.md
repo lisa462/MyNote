@@ -5,8 +5,8 @@
 ### Rough Upper Bound
 目的，證明兩個程式的性質的方法
 **big-O** : arguably the most used "language" for complexity.
-**More Intuitions on Big-O**：
 
+方法1**More Intuitions on Big-O** : 如果f(n)/g(n)的極限值小於c
 他跑的比裡面的函數慢或是差不多
 他在函數中建立排序
 比較小的項，會被忽略，只會留下主要項
