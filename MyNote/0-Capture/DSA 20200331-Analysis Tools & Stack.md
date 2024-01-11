@@ -52,7 +52,8 @@ F/g 約小於等於 c
 		* Theorem(遞移律)![[Pasted image 20240111201758.png]]
 		* Theorem(併吞律)![[Pasted image 20240111202213.png]]
 			* 只會留下最大的項，秦國把六國吞併
-			* 什麼是Big-O?如何如何操作?
+			* 什麼是Big-O?如何定義?工具?如何操作?
+			* 用行話來說為什麼
 ### Combine
 
 
