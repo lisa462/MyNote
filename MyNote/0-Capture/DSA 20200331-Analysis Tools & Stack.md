@@ -4,5 +4,5 @@
 目標：如何取得程式消耗的時間或空間的約落數字
 ### Rough Upper Bound
 computer said-Computer jargon(行話)
-eg. big-O
+**big-O**
 
