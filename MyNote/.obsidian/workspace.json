@@ -4,23 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "0aca5a2088b9622c",
-        "type": "tabs",
+        "id": "52f9331c720c0a03",
+        "type": "split",
         "children": [
           {
-            "id": "2488bf48af420e54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-Capture/DSA 20200331-Analysis Tools & Stack.md",
-                "mode": "source",
-                "source": false
+            "id": "0aca5a2088b9622c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2488bf48af420e54",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "0-Capture/DSA 20200331-Analysis Tools & Stack.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "357714744f64b4be"
               }
-            }
+            ],
+            "stacked": true
+          },
+          {
+            "id": "030fdf28cb8d36ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "138daacf6805c477",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "0-Capture/DSA 20200331-Analysis Tools & Stack.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                },
+                "group": "357714744f64b4be"
+              }
+            ]
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -159,7 +191,7 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "2488bf48af420e54",
+  "active": "138daacf6805c477",
   "lastOpenFiles": [
     "0-Capture/attenchment/Pasted image 20240111185018.png",
     "0-Capture/attenchment/Pasted image 20240111184038.png",
