@@ -51,7 +51,8 @@ F/g 約小於等於 c
 		* Theorem(封閉律)![[Pasted image 20240111201751.png]]
 		* Theorem(遞移律)![[Pasted image 20240111201758.png]]
 		* Theorem(併吞律)![[Pasted image 20240111202213.png]]
-		* 
+			* 只會留下最大的項，秦國把六國吞併
+			* 如何
 ### Combine
 
 
