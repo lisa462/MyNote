@@ -48,11 +48,9 @@ F/g 約小於等於 c
 		* 定義，證明
 		* Some Properties of Big-O
 		* Big-O使一個小於大於的東東
-		* Theorem(封閉律)
-		* ![[Pasted image 20240111201751.png]]
-		* Theorem(遞移律)
-		* ![[Pasted image 20240111201758.png]]
-		* Theorem(併吞律)
+		* Theorem(封閉律)![[Pasted image 20240111201751.png]]
+		* Theorem(遞移律)![[Pasted image 20240111201758.png]]
+		* Theorem(併吞律)![[Pasted image 20240111202213.png]]
 ### Combine
 
 
