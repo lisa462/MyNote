@@ -26,4 +26,7 @@ F/g 約小於等於 c
 
 
 
-Defin
+### Definitions
+omega-下限
+big-o-上限
+semilar-ㄕㄤ
