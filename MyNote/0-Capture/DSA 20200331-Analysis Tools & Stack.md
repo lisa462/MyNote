@@ -57,6 +57,6 @@ F/g 約小於等於 c
 			* 比較花時間的項目是什麼?
 			* Big-O最低上限，N平方就是N平方。的
 			* 
-### 
+### Practical Complexity![[Pasted image 20240111203452.png]]
 
 
