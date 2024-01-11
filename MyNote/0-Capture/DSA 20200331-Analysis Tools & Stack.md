@@ -17,3 +17,5 @@
 
 **limit Intuition => formal Definition**
 ![[Pasted image 20240111184038.png]]
+F/g 約小於等於 c
+目標是什麼? 出現
