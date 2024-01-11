@@ -79,5 +79,9 @@ Stack 要怎麼執行?
 把Top放在Array最尾巴的地方 end-of-array
 push ~ pop
 **Stacks Implementation on LinkList** [04](https://youtu.be/-1FYYVpgyUo?list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA&t=9548)
+head-of-Linklist
+**Stack in STL** [05](https://youtu.be/-1FYYVpgyUo?list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA&t=9700)
+**adapter 轉接器-轉換用**
+
 
 
