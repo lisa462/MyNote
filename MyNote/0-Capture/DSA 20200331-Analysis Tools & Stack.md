@@ -5,10 +5,11 @@
 ### Rough Upper Bound
 目的，證明兩個程式的性質的方法
 **big-O** : arguably the most used "language" for complexity.
-More Intuitions on Big-O
+**More Intuitions on Big-O**
 他跑的比裡面的函數慢或是差不多
 他在函數中建立排序
 比較小的項，會被忽略，只會留下主要項
+缺點：必須存在極限(微積分收斂)
 **Formal Definition of Big-O**：兩個相除的結果是否相等，設立假設函數是大於零，是整數等...
 
 
