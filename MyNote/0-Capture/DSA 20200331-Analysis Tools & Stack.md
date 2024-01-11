@@ -15,5 +15,5 @@
 優點：沒有極限也能使用
 ![[Pasted image 20240111183937.png]]
 
-lim Intuition => formal Definition
-
+**limit Intuition => formal Definition**
+![[Pasted image 20240111184038.png]]
