@@ -13,6 +13,7 @@
 **Formal Definition of Big-O**：兩個相除的結果是否相等，設立假設函數是大於零，是整數等...
 以最接近的值，做更好的限制
 優點：沒有極限也能使用
+![[Pasted image 20240111183937.png]]
 
-
+lim Intuition => formal Definition
 
