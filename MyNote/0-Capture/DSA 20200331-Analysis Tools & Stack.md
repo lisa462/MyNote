@@ -5,4 +5,6 @@
 ### Rough Upper Bound
 **big-O** : arguably the most used "language" for complexity.
 More Intuitions on Big-O
+他跑的比裡面的函數慢或是差不多
+他在函數中建立排序
 
