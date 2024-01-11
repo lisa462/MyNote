@@ -39,5 +39,7 @@ F/g 約小於等於 c
 * Sequential and Binary Search
 * 設定Array 無排序有兩個選擇
 	* Direct-SEQ-SEARCH(list,n,num)-O(n) time
+	* 直接在陣列找，花費等同於陣列長度的時間
 	* SORT-AND-BIN-SEARCH(list,n,num)-SEL-SORT and O(log n)
+		* 先排序陣列，再用BIN函數找。花費排序時間+ BINㄙㄨㄛ
 	* 
