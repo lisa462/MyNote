@@ -36,5 +36,7 @@ F/g 約小於等於 c
 	* 一個一個找，花費
 * Analysis of Binary Search
 	* 從中間找，花費常數logN那麼多輪
-	* 
+* Sequential and Binary Search
+* 設定Array 無排序有兩個選擇
+	* 1.直接使用 SEㄔㄧ
 	  
