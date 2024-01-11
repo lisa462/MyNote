@@ -6,12 +6,11 @@
 目的，證明兩個程式的性質的方法
 **big-O** : arguably the most used "language" for complexity.
 
-方法1**More Intuitions on Big-O** : 如果f(n)/g(n)的極限值小於c,證明f(n)這個函式比g(n)更小或更慢。
-該處要應用到微積分的極限值，當
+方法1**More Intuitions on Big-O** : *如果f(n)/g(n)的極限值小於c,證明f(n)這個函式比g(n)更小或更慢。*
+*該處要應用到微積分的極限值，當n無限大時，f(n)和g(n)的回應。*
 他跑的比裡面的函數慢或是差不多
 他在函數中建立排序
 比較小的項，會被忽略，只會留下主要項
-缺點：必須存在極限(微積分收斂)
 **Formal Definition of Big-O**：兩個相除的結果是否相等，設立假設函數是大於零，是整數等...
 以最接近的值，做更好的限制
 優點：沒有極限也能使用
