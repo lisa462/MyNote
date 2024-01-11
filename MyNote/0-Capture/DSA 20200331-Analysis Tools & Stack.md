@@ -32,4 +32,4 @@ F/g 約小於等於 c
 * big-o-上限
 * semilar-上限+下限
   The Seven Functins as *g * 7個常用範例函數*
-* 
+*  
