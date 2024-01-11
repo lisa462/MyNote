@@ -33,4 +33,7 @@ F/g 約小於等於 c
 * semilar-上限+下限
   The Seven Functins as *g * 7個常用範例函數*
   Analysis of Sequential Search
+  Analysis of Binary Search
+* 從中間找
+  
   
