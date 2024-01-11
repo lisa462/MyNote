@@ -1,5 +1,5 @@
 出自：[DSA 20200331: Analysis Tools / Stack (youtube.com)](https://www.youtube.com/watch?v=-1FYYVpgyUo&list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA&index=7&t=1s)
-Proje：[[考上台大網媒所]]
+Project：[[考上台大網媒所]]
 # Analysis Tools
 ## Asymptotic Notations
 目標：如何取得程式消耗的時間或空間的約略數字
@@ -45,8 +45,7 @@ F/g 約小於等於 c
 		* 先排序陣列，再用BIN函數找。花費排序時間+ BIN搜索的時間
 	* Q 那麼要怎麼計算由包含兩個以上函數的所消耗的時間呢?
 	* Q 如何計算多個big-o所花費的時間?
-	* 
-	  
+	* Big
 
 ### Combine
 
