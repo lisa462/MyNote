@@ -5,4 +5,5 @@
 ### Rough Upper Bound
 computer said-Computer jargon(行話)
 **big-O**
+微積分 收斂
 
