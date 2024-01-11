@@ -17,7 +17,7 @@
 **limit Intuition => formal Definition**
 ![[Pasted image 20240111184038.png]]
 F/g 約小於等於 c
-目標是什麼? 出現N0
+目標是什麼? -> 出現n0
 若n比n0，f <= c' * g (c',n') 為ture 
 	則 f(n) = O(g(n))
 想法：
