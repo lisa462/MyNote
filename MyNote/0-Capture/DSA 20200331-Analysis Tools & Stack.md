@@ -60,6 +60,6 @@ F/g 約小於等於 c
 ### Practical Complexity![[Pasted image 20240111203452.png]]
 表格 y時間/空間 = 資料量 + n基底
 
-# Stack 堆疊
+# Stack 堆疊 02
 ## intuition
 
