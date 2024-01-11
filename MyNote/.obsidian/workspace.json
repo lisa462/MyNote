@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Capture/多益模擬題第12回筆記.md",
+                "file": "0-Capture/DSA 20200331-Analysis Tools & Stack.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/多益模擬題第12回筆記.md",
+                "file": "0-Capture/DSA 20200331-Analysis Tools & Stack.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/多益模擬題第12回筆記.md",
+                "file": "0-Capture/DSA 20200331-Analysis Tools & Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/多益模擬題第12回筆記.md"
+                "file": "0-Capture/DSA 20200331-Analysis Tools & Stack.md"
               }
             }
           },
@@ -155,13 +155,15 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "random-note:開始漫遊筆記": false
     }
   },
   "active": "2488bf48af420e54",
   "lastOpenFiles": [
-    "0-Capture/English Grammer.canvas",
+    "0-Capture/DSA 20200331-Analysis Tools & Stack.md",
     "0-Capture/多益模擬題第12回筆記.md",
+    "0-Capture/English Grammer.canvas",
     "0-Capture/文法問題.md",
     "1-Project/Welcome.md",
     "1-Project/考取多益730分.md",
