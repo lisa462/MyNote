@@ -7,6 +7,11 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "source",
-  "foldIndent": true,
-  "showIndentGuide": false
+  "foldIndent": false,
+  "showIndentGuide": true,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "smartIndentList": true,
+  "autoPairMarkdown": false
 }

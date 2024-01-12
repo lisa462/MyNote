@@ -16,20 +16,29 @@
     }
   ],
   "editor:toggle-checklist-status": [],
-  "editor:toggle-strikethrough": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "X"
-    }
-  ],
   "workspace:next-tab": [
     {
       "modifiers": [
         "Ctrl"
       ],
       "key": "PageDown"
+    }
+  ],
+  "editor:save-file": [],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
     }
   ]
 }
