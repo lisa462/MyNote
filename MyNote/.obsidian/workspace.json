@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82b034148f0497e2",
@@ -159,8 +158,9 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "2488bf48af420e54",
+  "active": "cd5a5f8d4e68b373",
   "lastOpenFiles": [
+    "0-Capture/attenchment/DSA.pdf",
     "0-Capture/attenchment/Pasted image 20240111205800.png",
     "0-Capture/attenchment/Pasted image 20240111205351.png",
     "0-Capture/attenchment/Pasted image 20240111203452.png",
@@ -184,7 +184,6 @@
     "0-Capture/第一章 現在式.md",
     "0-Capture/Simple Present.md",
     "0-Capture/attenchment/Pasted image 20240110150136.png",
-    "0-Capture/attenchment/Pasted image 20240110150112.png",
     "未命名.canvas",
     "0-Capture/attenchment",
     "0-Capture/輸入/輸出.md",
