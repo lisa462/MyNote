@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "文法問題",
-      "path": "0-Capture/文法問題.md"
+      "basename": "個人工作流規劃",
+      "path": "0-Capture/個人工作流規劃.md"
     },
     {
-      "basename": "English Grammer",
-      "path": "0-Capture/English Grammer.canvas"
+      "basename": "Test",
+      "path": "Z-樣板/Test.md"
     },
     {
       "basename": "考取多益730分_20240225",
@@ -19,6 +19,66 @@
     {
       "basename": "00 Welcome",
       "path": "1-Project/00 Welcome.md"
+    },
+    {
+      "basename": "DSA 20200310 - C++ & Array",
+      "path": "0-Capture/DSA 20200310 - C++ & Array.md"
+    },
+    {
+      "basename": "DSA 20200324-Linked List",
+      "path": "0-Capture/DSA 20200324-Linked List.md"
+    },
+    {
+      "basename": "Pseudo Code 虛擬碼-常用語法",
+      "path": "0-Capture/Pseudo Code 虛擬碼-常用語法.md"
+    },
+    {
+      "basename": "指令序列",
+      "path": "0-Capture/指令序列.md"
+    },
+    {
+      "basename": "演算法名稱",
+      "path": "0-Capture/演算法名稱.md"
+    },
+    {
+      "basename": "Pseudo Code 虛擬碼",
+      "path": "0-Capture/Pseudo Code 虛擬碼.md"
+    },
+    {
+      "basename": "Obsidian的 個人使用說明",
+      "path": "0-Capture/Obsidian的 個人使用說明.md"
+    },
+    {
+      "basename": "Obsidian 常用語法",
+      "path": "0-Capture/Obsidian 常用語法.md"
+    },
+    {
+      "basename": "DSA 20200324-Analysis Tools",
+      "path": "0-Capture/DSA 20200324-Analysis Tools.md"
+    },
+    {
+      "basename": "DSA 20200303-Introduction to Data Structures and Algorithms",
+      "path": "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "Analysis_Tools 1",
+      "path": "0-Capture/Analysis_Tools 1.pdf"
+    },
+    {
+      "basename": "演算法  Algorithms",
+      "path": "0-Capture/演算法  Algorithms.md"
+    },
+    {
+      "basename": "多益第4回模擬測試錯題本",
+      "path": "0-Capture/多益第4回模擬測試錯題本.pdf"
+    },
+    {
+      "basename": "文法問題",
+      "path": "0-Capture/文法問題.md"
+    },
+    {
+      "basename": "English Grammer",
+      "path": "0-Capture/English Grammer.canvas"
     },
     {
       "basename": "多益模擬測試題第4回 錯題本",
@@ -37,10 +97,6 @@
       "path": "0-Capture/陣列.md"
     },
     {
-      "basename": "DSA 20200324-Analysis Tools",
-      "path": "0-Capture/DSA 20200324-Analysis Tools.md"
-    },
-    {
       "basename": "插入排序",
       "path": "0-Capture/插入排序.md"
     },
@@ -51,18 +107,6 @@
     {
       "basename": "賦值",
       "path": "0-Capture/賦值.md"
-    },
-    {
-      "basename": "DSA 20200310 - C++ & Array",
-      "path": "0-Capture/DSA 20200310 - C++ & Array.md"
-    },
-    {
-      "basename": "指令序列",
-      "path": "0-Capture/指令序列.md"
-    },
-    {
-      "basename": "Pseudo Code 虛擬碼",
-      "path": "0-Capture/Pseudo Code 虛擬碼.md"
     }
   ],
   "omittedPaths": [],

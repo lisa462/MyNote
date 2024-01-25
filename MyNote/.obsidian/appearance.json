@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Inter"
 }
