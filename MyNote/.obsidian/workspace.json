@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f30842d78c2e6b55",
+            "id": "c96ee031c1e6ee65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Capture/個人工作流規劃.md",
+                "file": "0-Capture/個人工作流-規劃.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#多益",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,12 +75,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "82b034148f0497e2",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0-Capture/個人工作流規劃.md",
+                "file": "0-Capture/個人工作流-規劃.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0-Capture/個人工作流規劃.md",
+                "file": "0-Capture/個人工作流-規劃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0-Capture/個人工作流規劃.md"
+                "file": "0-Capture/個人工作流-規劃.md"
               }
             }
           },
@@ -149,12 +149,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,37 +167,37 @@
       "random-note:開始漫遊筆記": false
     }
   },
-  "active": "f30842d78c2e6b55",
+  "active": "c96ee031c1e6ee65",
   "lastOpenFiles": [
+    "0-Capture/English Grammer.canvas",
+    "0-Capture/個人工作流-規劃.md",
+    "1-Project/考上台大網媒所_2024.md",
+    "1-Project/考取多益730分_20240225.md",
+    "1-Project/00 Welcome.md",
+    "0-Capture/布林代數.md",
+    "0-Capture/分支選擇.md",
     "Z-樣板/Test.md",
+    "2-Area/100 說明文件/Obsidian 設定.md",
+    "0-Capture/多益模擬測試題第4回 錯題本.md",
+    "2-Area/100 說明文件",
+    "0-Capture/DSA 20200324-Linked List.md",
+    "0-Capture/DSA 20200310 - C++ & Array.md",
+    "0-Capture/DSA 20200317- Array & Linked List.md",
+    "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md",
     "0-Capture/演算法  Algorithms.md",
     "0-Capture/DSA 20200324-Analysis Tools.md",
     "0-Capture/卡片盒筆記法.md",
-    "1-Project/00 Welcome.md",
     "0-Capture/賦值.md",
-    "0-Capture/DSA 20200324-Linked List.md",
     "0-Capture/Markdown語法.md",
-    "0-Capture/DSA 20200310 - C++ & Array.md",
     "0-Capture/演算法結束.md",
     "0-Capture/Obsidian的 個人使用說明.md",
-    "0-Capture/個人工作流規劃.md",
-    "1-Project/考取多益730分_20240225.md",
-    "1-Project/考上台大網媒所_2024.md",
     "0-Capture/Pseudo Code 虛擬碼-常用語法.md",
     "0-Capture/指令序列.md",
     "0-Capture/演算法名稱.md",
     "0-Capture/Pseudo Code 虛擬碼.md",
     "0-Capture/Obsidian 常用語法.md",
-    "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md",
     "0-Capture/Analysis_Tools 1.pdf",
     "0-Capture/多益第4回模擬測試錯題本.pdf",
-    "0-Capture/文法問題.md",
-    "0-Capture/English Grammer.canvas",
-    "0-Capture/多益模擬測試題第4回 錯題本.md",
-    "0-Capture/計算機結構DATA Struction.md",
-    "0-Capture/註釋.md",
-    "0-Capture/陣列.md",
-    "0-Capture/插入排序.md",
     "attenchment/Pasted image 20240110143443.png",
     "attenchment/Pasted image 20240110143420.png",
     "attenchment/Pasted image 20240110143513.png",
@@ -216,7 +215,6 @@
     "attenchment",
     "0-Capture/輸入",
     "0-Capture/Analysis_Tools.pdf",
-    "_attenchments",
-    "Z-樣板"
+    "_attenchments"
   ]
 }
