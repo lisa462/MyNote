@@ -1,4 +1,4 @@
-標籤 : #筆記卡 
+
 出處：
 https://www.youtube.com/watch?v=d-PDYIqg_Kc&list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA&index=6
 ![[Analysis_Tools 1.pdf]]

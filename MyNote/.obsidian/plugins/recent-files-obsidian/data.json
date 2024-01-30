@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "DSA 20200331-Analysis Tools & Stack",
+      "path": "0-Capture/DSA 20200331-Analysis Tools & Stack.md"
+    },
+    {
+      "basename": "考上台大網媒所_2024",
+      "path": "1-Project/考上台大網媒所_2024.md"
+    },
+    {
+      "basename": "分支選擇",
+      "path": "0-Capture/分支選擇.md"
+    },
+    {
+      "basename": "卡片盒筆記法",
+      "path": "3-Archive/卡片盒筆記法.md"
+    },
+    {
+      "basename": "DSA 20200324-Linked List",
+      "path": "0-Capture/DSA 20200324-Linked List.md"
+    },
+    {
+      "basename": "DSA 20200324-Analysis Tools",
+      "path": "0-Capture/DSA 20200324-Analysis Tools.md"
+    },
+    {
+      "basename": "DSA 20200317- Array & Linked List",
+      "path": "0-Capture/DSA 20200317- Array & Linked List.md"
+    },
+    {
+      "basename": "DSA 20200310 - C++ & Array",
+      "path": "0-Capture/DSA 20200310 - C++ & Array.md"
+    },
+    {
+      "basename": "DSA 20200303-Introduction to Data Structures and Algorithms",
+      "path": "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "Obsidian的 個人使用說明",
+      "path": "0-Capture/Obsidian的 個人使用說明.md"
+    },
+    {
+      "basename": "Obsidian 常用語法",
+      "path": "0-Capture/Obsidian 常用語法.md"
+    },
+    {
+      "basename": "演算法  Algorithms",
+      "path": "0-Capture/演算法  Algorithms.md"
+    },
+    {
+      "basename": "計算機結構DATA Struction",
+      "path": "0-Capture/計算機結構DATA Struction.md"
+    },
+    {
+      "basename": "考取多益730分_20240225",
+      "path": "1-Project/考取多益730分_20240225.md"
+    },
+    {
+      "basename": "Test",
+      "path": "Z-樣板/Test.md"
+    },
+    {
       "basename": "個人工作流-規劃",
       "path": "0-Capture/個人工作流-規劃.md"
     },
@@ -9,76 +69,16 @@
       "path": "0-Capture/English Grammer.canvas"
     },
     {
-      "basename": "考上台大網媒所_2024",
-      "path": "1-Project/考上台大網媒所_2024.md"
-    },
-    {
-      "basename": "考取多益730分_20240225",
-      "path": "1-Project/考取多益730分_20240225.md"
-    },
-    {
-      "basename": "布林代數",
-      "path": "0-Capture/布林代數.md"
-    },
-    {
-      "basename": "分支選擇",
-      "path": "0-Capture/分支選擇.md"
-    },
-    {
-      "basename": "Test",
-      "path": "Z-樣板/Test.md"
-    },
-    {
       "basename": "Obsidian 設定",
-      "path": "2-Area/100 說明文件/Obsidian 設定.md"
-    },
-    {
-      "basename": "多益模擬測試題第4回 錯題本",
-      "path": "0-Capture/多益模擬測試題第4回 錯題本.md"
-    },
-    {
-      "basename": "DSA 20200324-Linked List",
-      "path": "0-Capture/DSA 20200324-Linked List.md"
-    },
-    {
-      "basename": "DSA 20200310 - C++ & Array",
-      "path": "0-Capture/DSA 20200310 - C++ & Array.md"
-    },
-    {
-      "basename": "DSA 20200317- Array & Linked List",
-      "path": "0-Capture/DSA 20200317- Array & Linked List.md"
-    },
-    {
-      "basename": "DSA 20200303-Introduction to Data Structures and Algorithms",
-      "path": "0-Capture/DSA 20200303-Introduction to Data Structures and Algorithms.md"
-    },
-    {
-      "basename": "演算法  Algorithms",
-      "path": "0-Capture/演算法  Algorithms.md"
-    },
-    {
-      "basename": "DSA 20200324-Analysis Tools",
-      "path": "0-Capture/DSA 20200324-Analysis Tools.md"
-    },
-    {
-      "basename": "卡片盒筆記法",
-      "path": "0-Capture/卡片盒筆記法.md"
+      "path": "2-Area/000 說明文件/Obsidian 設定.md"
     },
     {
       "basename": "賦值",
       "path": "0-Capture/賦值.md"
     },
     {
-      "basename": "Markdown語法",
-      "path": "0-Capture/Markdown語法.md"
-    },
-    {
       "basename": "演算法結束",
       "path": "0-Capture/演算法結束.md"
-    },
-    {
-      "basename": "Obsidian的 個人使用說明",
-      "path": "0-Capture/Obsidian的 個人使用說明.md"
     },
     {
       "basename": "Pseudo Code 虛擬碼-常用語法",
@@ -97,10 +97,6 @@
       "path": "0-Capture/Pseudo Code 虛擬碼.md"
     },
     {
-      "basename": "Obsidian 常用語法",
-      "path": "0-Capture/Obsidian 常用語法.md"
-    },
-    {
       "basename": "Analysis_Tools 1",
       "path": "0-Capture/Analysis_Tools 1.pdf"
     },
@@ -111,10 +107,6 @@
     {
       "basename": "文法問題",
       "path": "0-Capture/文法問題.md"
-    },
-    {
-      "basename": "計算機結構DATA Struction",
-      "path": "0-Capture/計算機結構DATA Struction.md"
     },
     {
       "basename": "註釋",

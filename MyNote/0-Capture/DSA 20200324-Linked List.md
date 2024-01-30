@@ -1,4 +1,3 @@
-標籤 : #筆記卡 
 出處：
 https://www.youtube.com/watch?v=pAs8Swu1Y3Y&list=PLXVfgk9fNX2Kda9rttSvGROCtRQ3Sb8bA&index=5&t=451s
 

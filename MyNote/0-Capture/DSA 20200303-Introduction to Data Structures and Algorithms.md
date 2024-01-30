@@ -1,4 +1,3 @@
-標籤: #筆記卡 
 > 取自：https://www.youtube.com/watch?v=8IOv2fnc01E
 1. Introduction to Data Structures and Algorithms
 2. What is Algorithms ? 
