@@ -9,24 +9,52 @@
       "path": "Z-樣板/Test.md"
     },
     {
-      "basename": "考取多益730分_20240225",
-      "path": "1-Project/考取多益730分_20240225.md"
+      "basename": "演算法  Algorithms",
+      "path": "0-Capture/演算法  Algorithms.md"
     },
     {
-      "basename": "考上台大網媒所_2024",
-      "path": "1-Project/考上台大網媒所_2024.md"
+      "basename": "DSA 20200324-Analysis Tools",
+      "path": "0-Capture/DSA 20200324-Analysis Tools.md"
+    },
+    {
+      "basename": "卡片盒筆記法",
+      "path": "0-Capture/卡片盒筆記法.md"
     },
     {
       "basename": "00 Welcome",
       "path": "1-Project/00 Welcome.md"
     },
     {
-      "basename": "DSA 20200310 - C++ & Array",
-      "path": "0-Capture/DSA 20200310 - C++ & Array.md"
+      "basename": "賦值",
+      "path": "0-Capture/賦值.md"
     },
     {
       "basename": "DSA 20200324-Linked List",
       "path": "0-Capture/DSA 20200324-Linked List.md"
+    },
+    {
+      "basename": "Markdown語法",
+      "path": "0-Capture/Markdown語法.md"
+    },
+    {
+      "basename": "DSA 20200310 - C++ & Array",
+      "path": "0-Capture/DSA 20200310 - C++ & Array.md"
+    },
+    {
+      "basename": "演算法結束",
+      "path": "0-Capture/演算法結束.md"
+    },
+    {
+      "basename": "Obsidian的 個人使用說明",
+      "path": "0-Capture/Obsidian的 個人使用說明.md"
+    },
+    {
+      "basename": "考取多益730分_20240225",
+      "path": "1-Project/考取多益730分_20240225.md"
+    },
+    {
+      "basename": "考上台大網媒所_2024",
+      "path": "1-Project/考上台大網媒所_2024.md"
     },
     {
       "basename": "Pseudo Code 虛擬碼-常用語法",
@@ -45,16 +73,8 @@
       "path": "0-Capture/Pseudo Code 虛擬碼.md"
     },
     {
-      "basename": "Obsidian的 個人使用說明",
-      "path": "0-Capture/Obsidian的 個人使用說明.md"
-    },
-    {
       "basename": "Obsidian 常用語法",
       "path": "0-Capture/Obsidian 常用語法.md"
-    },
-    {
-      "basename": "DSA 20200324-Analysis Tools",
-      "path": "0-Capture/DSA 20200324-Analysis Tools.md"
     },
     {
       "basename": "DSA 20200303-Introduction to Data Structures and Algorithms",
@@ -63,10 +83,6 @@
     {
       "basename": "Analysis_Tools 1",
       "path": "0-Capture/Analysis_Tools 1.pdf"
-    },
-    {
-      "basename": "演算法  Algorithms",
-      "path": "0-Capture/演算法  Algorithms.md"
     },
     {
       "basename": "多益第4回模擬測試錯題本",
@@ -103,10 +119,6 @@
     {
       "basename": "布林代數",
       "path": "0-Capture/布林代數.md"
-    },
-    {
-      "basename": "賦值",
-      "path": "0-Capture/賦值.md"
     }
   ],
   "omittedPaths": [],
