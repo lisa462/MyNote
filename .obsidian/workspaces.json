@@ -1,0 +1,479 @@
+{
+  "workspaces": {
+    "【團務】米拉-toki": {
+      "main": {
+        "id": "6e12bf6f9dda9daf",
+        "type": "split",
+        "children": [
+          {
+            "id": "038550ded54ac89a",
+            "type": "tabs",
+            "dimension": 60.1620029455081,
+            "children": [
+              {
+                "id": "9fb3a830b173172f",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://ccfolia.com/rooms/aT6bSn2mV",
+                    "title": "CCFOLIA 1.33.1 - TRPGオンラインセッションツール",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "CCFOLIA 1.33.1 - TRPGオンラインセッションツール"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6e7ede263282e1b8",
+            "type": "tabs",
+            "dimension": 39.8379970544919,
+            "children": [
+              {
+                "id": "5dd3b33a2ab2809a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04 Project-related note/430 Milla 米菈-Toki/角色背景：生物科研者M.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "角色背景：生物科研者M"
+                }
+              },
+              {
+                "id": "e67d2ae457b4ea8e",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://docs.google.com/spreadsheets/d/1SBGthFujwfX9JI6SnLdPflw4zIgiFfBhQRVbSClJSpo/edit?gid=0#gid=0",
+                    "title": "【最終物語FU】生物科研者M - Google 試算表",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "【最終物語FU】生物科研者M - Google 試算表"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f6a485c384f122b",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b9ad08c61bedb38",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e2c54674b90895a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {},
+                  "icon": "sheets-in-box",
+                  "title": "File Tree"
+                }
+              },
+              {
+                "id": "b1b50c7244e0bcca",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜尋"
+                }
+              },
+              {
+                "id": "718be30f9b1446ad",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "書籤"
+                }
+              },
+              {
+                "id": "43e2ea823138890f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "4ca96e2195bb2844",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "檔案瀏覽器"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 314.5110321044922,
+        "collapsed": true
+      },
+      "right": {
+        "id": "b212e40ea713d74f",
+        "type": "split",
+        "children": [
+          {
+            "id": "b81940f5055e6d80",
+            "type": "tabs",
+            "dimension": 43.758389261744966,
+            "children": [
+              {
+                "id": "15476e170ca85bdf",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "46fc9167cbcda84b",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "所有屬性"
+                }
+              },
+              {
+                "id": "6f09acab0a236d5d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "關聯圖檢視"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "e82251db9cf08321",
+            "type": "tabs",
+            "dimension": 56.241610738255034,
+            "children": [
+              {
+                "id": "1da6a21e48a38a5c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "反向連結"
+                }
+              },
+              {
+                "id": "1ff509b41137fedd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "02 Literature note/視頻/【諺語】靡不有初，鮮克有終.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "【諺語】靡不有初，鮮克有終 的對外連結"
+                }
+              },
+              {
+                "id": "6cdc70ab9f3358cf",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "標籤"
+                }
+              },
+              {
+                "id": "31a72b8c238fdf92",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "大綱"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "audio-recorder:開始/停止錄音": false,
+          "graph:查看關聯圖": false,
+          "switcher:開啟快速切換": false,
+          "canvas:建立新畫布": false,
+          "command-palette:開啟命令面板": false,
+          "workspaces:管理工作區配置": false,
+          "zk-prefixer:建立新唯一筆記": false,
+          "random-note:開始漫遊筆記": false,
+          "markdown-importer:開啟 Markdown 格式轉換器": false,
+          "remotely-save:Remotely Save": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "templates:插入模板": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false
+        }
+      },
+      "active": "e67d2ae457b4ea8e",
+      "mtime": "2025-07-02T20:07:03+08:00"
+    },
+    "基本配置": {
+      "main": {
+        "id": "6e12bf6f9dda9daf",
+        "type": "split",
+        "children": [
+          {
+            "id": "983e585846f3e0b3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a3ae1fd36ec756fd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "03 Permanent note/100 原創/110 蘭博大陸/【OC世界觀】LAB大陸-TRPG規則版.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "【OC世界觀】LAB大陸-TRPG規則版"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9f6a485c384f122b",
+        "type": "split",
+        "children": [
+          {
+            "id": "7b9ad08c61bedb38",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63417543adc7a30f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "檔案瀏覽器"
+                }
+              },
+              {
+                "id": "b1b50c7244e0bcca",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#【收容怪物卡參考格式】",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜尋"
+                }
+              },
+              {
+                "id": "718be30f9b1446ad",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "書籤"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 286.5110321044922
+      },
+      "right": {
+        "id": "b212e40ea713d74f",
+        "type": "split",
+        "children": [
+          {
+            "id": "e82251db9cf08321",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "31a72b8c238fdf92",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "03 Permanent note/100 原創/110 蘭博大陸/【OC世界觀】LAB大陸-TRPG規則版.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "【OC世界觀】LAB大陸-TRPG規則版 的大綱"
+                }
+              },
+              {
+                "id": "1da6a21e48a38a5c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "03 Permanent note/100 原創/110 蘭博大陸/【擴展】挑戰者之塔.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-coming-in",
+                  "title": "【擴展】挑戰者之塔 的反向連結"
+                }
+              },
+              {
+                "id": "1ff509b41137fedd",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "05 Archive/基督晨興/【基督】第五題 神藉環境使信徒得益處.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "【基督】第五題 神藉環境使信徒得益處 的對外連結"
+                }
+              },
+              {
+                "id": "6cdc70ab9f3358cf",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "標籤"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "templates:插入模板": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "audio-recorder:開始/停止錄音": false,
+          "graph:查看關聯圖": false,
+          "switcher:開啟快速切換": false,
+          "canvas:建立新畫布": false,
+          "command-palette:開啟命令面板": false,
+          "workspaces:管理工作區配置": false,
+          "zk-prefixer:建立新唯一筆記": false,
+          "random-note:開始漫遊筆記": false,
+          "markdown-importer:開啟 Markdown 格式轉換器": false,
+          "remotely-save:Remotely Save": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false
+        }
+      },
+      "active": "31a72b8c238fdf92",
+      "mtime": "2025-08-20T00:16:31+08:00"
+    }
+  },
+  "active": "基本配置"
+}

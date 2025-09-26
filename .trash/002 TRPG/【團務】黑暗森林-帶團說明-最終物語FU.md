@@ -1,0 +1,195 @@
+# 團務資訊
+---
+【劇本名稱】：黑暗森林
+【使用系統】：最終物語(FU) 
+【主持人】：DouDouXD
+【團務形式】：語音+TRPG網頁版
+【預計時長】：3 - 5次左右
+【規則難度】：入門
+【團務風格】：日系二次元、原創、根據S0討論內容而定
+【撕卡率】：原則上無
+【招募人數】：4人
+【跑團時間】：每周六晚上8點半或9點
+【報名方式】：回復喊+1，超過人數黑箱，截止日期3月底
+
+【創角規則】
+`背景限制：非人物種(可以是奇幻大陸傳統物種，也能是自創物種。自創物種需要跟GM透過私訊討論)`
+`車卡要求：S0會統一講解如何車卡以及世界觀的基礎設定`
+
+
+【導入】
+蘭博大陸北方的黑暗森林附近，發生多起居民失蹤案件。王對此煩惱不已，作為平民的英雄的你們收到徵招，前往該地解決事件。
+
+**黑暗森林的特徵與影響**
+```
+地理位置與命名
+黑暗森林位於大陸的北方，是一個強魔地帶，因其不見光和茂密植被的特徵而得名。這片森林的環境極為惡劣，常年籠罩在陰暗之中，讓人難以進入和探索。
+
+生態與魔力影響
+在黑暗森林內，存在著大量受到魔力影響的怪物。這些生物通常具有強大的攻擊力和特殊的能力，對於冒險者來說，既是挑戰也是威脅。儘管如此，這片森林同時也是一個資源的寶庫，擁有豐富的魔法材料和珍稀資源，吸引了許多冒險者前來探險。
+
+經濟發展的推動
+由於黑暗森林內的資源豐富，許多不怕死的冒險者為了追求財富而闖入這片危險的地帶。這種冒險行為不僅促進了當地的經濟發展，還帶動了周邊地區的商業活動。冒險者們的需求促使了各類商業的興起，例如藥劑、裝備和情報的交易，進一步豐富了當地的經濟生態。
+
+社會與文化影響
+黑暗森林的存在也影響了當地的社會文化。冒險者的故事和傳說在民間流傳，形成了獨特的文化現象。這些故事不僅吸引了更多的冒險者，也讓人們對於黑暗森林充滿了敬畏與好奇。
+
+總結來說，黑暗森林作為一個強魔地帶，不僅是冒險者的挑戰之地，也是資源的寶庫，對於當地的經濟和文化發展都有著深遠的影響。這片森林的神秘與危險，吸引著無數人前來探索與冒險，成為了大陸北方的一個重要地標。
+```
+
+【備註】
+備註1：加入前請至少看過系統介紹視頻
+備註2：本團務的GM是初次接觸該系統，包括但不限於規則錯誤、放海、口齒不清等。
+備註3：會錄影
+
+# 世界表
+---
+
+| **項目**      | **內容**                                                                                                                                                                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **世界名稱與形狀** | - **名稱**：蘭博大陸<br>- **形狀**：被無盡迷霧包裹的孤立世界                                                                                                                                                                                               |
+| **魔法與科技**   | 魔法<br>- 魔法是專屬於完成傳說的英雄們的特權<br>- 只有身負星紋的英雄可以動搖大氣中的魔力，引發改變世界法則的魔法<br>- 魔力是生靈的生命之源，也是溝通的橋樑 <br>- 每個城邦信仰專屬的星座，蛇夫座除外。<br><br>科技<br>- **交通**：以獸力為主要手段，城邦之間有建立魔法傳送門<br>- **通訊**：依賴飛鳥傳信或信使<br>- **農業**：以奴隸為主要人力<br>- **工業**：透過職業工會的形式進行學徒制的傳播 |
+| **歷史事件**    | - **北極星的出現**：在遙遠的過去，大陸上存在巨型的怪物，給大陸帶來無盡的災禍，星星把力量傳遞給第一位拿起劍反抗的勇者，誕生了第一位英雄<br>- **蛇夫座的大入侵**：蛇夫座的瘋王大舉入侵其餘的十二座城邦，把城邦都變成了自己的副署領地                                                                                                            |
+| **謎團與奧秘**   | - **無盡迷霧**：是什麼？他從何而來？包圍大陸的目的是什麼？<br>- **星星的力量**：為什麼星星能賦予勇者力量，使其成為傳說中的英雄？                                                                                                                                                             |
+| **威脅**      | - 無盡迷霧正逐漸入侵大陸<br>- 迷霧中湧現的各式各樣的怪物                                                                                                                                                                                                     |
+
+# 專有名詞
+---
+**十二城邦**
+被12星座賦予祝福的城邦。以下是城邦列表
+
+| 星座   | 象徵神明          | 城邦特色                   | 代表種族           |
+| ---- | ------------- | ---------------------- | -------------- |
+| ♈白羊座 | 阿瑞斯（戰神）       | 居民勇猛好戰，城內設有巨大 的競技場     | 矮人（Dwarf）      |
+| ♉金牛座 | 阿佛洛狄忒（愛與美之女神） | 以藝術和美食聞名，遍布花園和雕像       | 半羊人（Satyr）     |
+| ♊雙子座 | 赫爾 墨斯（信使之神）   | 商業繁榮，居民機智靈活            | 妖精（Fairy）      |
+| ♋巨蟹座 | 阿爾忒彌斯（狩獵女神）   | 被茂密森林環繞，崇尚自然與狩獵        | 德魯伊（Druid）     |
+| ♌獅子座 | 阿波羅（太陽神）      | 城內有金色宮殿和音樂廳，充滿光明與音樂    | 鳳凰（Phoenix）    |
+| ♍處女座 | 得墨忒耳（農業女神）    | 擁有廣袤田野和藥草園，重視豐收與醫療     | 精靈（Elf）        |
+| ♎天秤座 | 阿斯特莉亞（正義女神）   | 城內有宏偉法院和圖書館，強調法律與平衡    | 天使（Angel）      |
+| ♏天蠍座 | 黑帝斯（冥 王）      | 城內有幽深墓穴，居民關注神秘與再生      | 吸血鬼（Vampire）   |
+| ♐射手座 | 狄俄尼索斯（酒神）     | 經常舉辦狂歡節和酒會，崇尚自由與慶典     | 人馬（Centaur）    |
+| ♑摩羯座 | 克洛諾斯（時間之神）    | 城內有巨大的時鐘塔和學院，重視智慧與時間管理 | 機械人<br>(Robot) |
+| ♒水瓶座 | 烏拉諾斯（天空之神）    | 擁有 高聳塔樓和天文台，注重創新與科技    | 龍族（Dragon）     |
+| ♓雙魚座 | 波塞冬（海神）       | 城內有繁忙港口和燈塔，與海洋密切相關     | 美人魚（Mermaid）   |
+
+**迷霧生物**
+從無盡迷霧中誕生的魔物。外型古怪、不時發出奇怪的笑聲、哭聲或是怒吼的聲音。
+
+**蛇夫座**
+不受星星祝福的城邦。魔術的發源地，曾發動過一次對十二城邦的戰爭，史稱「大入侵」。
+最終*獅子座、天蠍座以及雙子座*的三位英雄被紅髮勇者所殺害。
+
+**英雄**
+完成傳說的勇者，受到星星的祝福獲得使用魔法的力量。身上有著星星所贈與的魔紋，形狀來自各星座的符號。
+
+**魔法與魔術**
+魔法是星星給予英雄的特權，唯有英雄能使用。魔術是蛇夫座的黃金之王所創造的類似魔法的技術，需要透過特定的聲音、姿勢、媒介才能使用，非常的消耗時間與財力。
+各城邦的魔法傳送陣就是魔術的產物(以英雄的魔法為媒介與魔術的技術結合而成，兩者缺一不可)。
+
+# 重要NPC
+---
+### 閻王：蛇夫座之王，財富與權力的中心，魔術的創始者
+特質：國王、魔術創始者、失去半身之人、過去
+![[蛇夫座_黃金之王_-1.png|333x333]]
+
+*感謝卡薩的繪製*
+
+### 勇者：英雄殺手、腥紅之災
+特質：紅髮勇者、英雄殺手、荒誕、現在
+![[蛇夫座_勇者_02.jpg|333x485]]
+
+### 王儲：大賢者、108妻妾成群、白金王子
+特質：白金王子、魔術研究者、博愛、未來
+![[蛇夫座_王儲.jpg|264x373]]
+
+---
+# 房規說明：S0聚會
+**承諾與期待**
+- 團務時間：每周六晚上8點半或9點，最晚不超過12點
+- 跑團平台：TRPG
+- 如果有玩家缺席，選出一位玩家代控。超過2個以上直接休團。若是大決戰的場景則直接休團一次。
+- 當團務**連續暫停超過三次以上，該團務自動流團**
+- 連線不穩定或是設備不穩定，請發相關表符。團員會等待**15分鐘**，若是仍然不行，就會暫停團務一次。
+3. 扮演卡住，不知道如何扮演等情況，請發下列的卡牌(*感謝黑糖蕨餅的製作*)![[image-4.png|255x255]]
+
+**基調與主題**
+- 不要過於休閒、過於硬核。介於挑戰和日常之間。by 吱吱
+- 偏向處理複雜的情況和情感的戲劇性故事 by 阿法
+- 環境 v.s. 信念的衝突。例如：選擇多數或少數
+- 如果真的產生PVP，拉到場外討論，場內演繹
+- PVP的界限，在一開始有分歧的時候就拿出來講
+- 道德抉擇。例如：拯救貓咪、電車難題
+- 描述場景大部分由GM負責，關鍵場景由玩家負責描述
+- GM詢問「哪你想要怎麼做呢?」
+- 描述上採用平鋪直述
+
+**規則與挑戰**
+- 科技全靠考古，路上遇到寶物
+- 到處蓋房子
+- 希臘、羅馬、埃及、中國神話
+- 挑戰設計屬於弱點明顯的類型，攻擊是多樣化的
+- 吃掉敵人可以獲得Buff和情報
+- 注意力適量。例如：強盜團不要百餘人
+- 衝突可選規則ok，成長NG
+- 採用里程碑式的升級，每次團務結束GM會直接說升到幾等，其餘按照[規則書第266頁](https://doc-0s-ac-prod-01-apps-viewer.googleusercontent.com/viewer2/prod-01/pdf/ci41maap9hd8ahmf2c6acac1sj34v8rd/2dmovbe46qup9pmbdv43pes0ca7juj7p/1742626200000/3/106499948043956930307/APznzaa6CVr4TzTay3F3HEjTPIaRjZdBElDumFL6OErEMA9n5Ybk92V7-w7yejnbuuNtUYYD8lisGg-y4ZIwmA1G9dfzlk8vkCl31aMcS7rXjpNrGNxCh037WBbb7kOVIWjmQOsYdHPusw-oaLjX8-Qbwu_5RNsq6NtUZtlpjPk0cYH6VSB-0kU_cla2fDiu3L2uTTgZbv73TEYoUxb9EGj8xWsDwjCO7_yOCOGSljHMIv4DFw-6Iz_V-7Jg71MQ4wPLVPkn08SPy7f44UhCq1P-P_YP9e1H2G1Vrje0nYLE-ZXh1hL2RKU7PWcXZq5KVzbTXI-2OW80XGN-cPBp4jqckmQ2irfMfR333TnL_Xqj8OBju9kEqPg7UnRWDRSBXgOCg_AhwJYASW1jp7IfnrOxju7bMSlBtLRcKZmo5IdCR3fsGcVy8fRDyBoU37mc9dWF3uchi-c5mU0Yi_mHCoZza1oXEnulKtwMDu5En0rfA6mOK0j_Ay6zk8Eb5nbv7TOia3sY_P0u7tH57Vr6CGPK2Yic0OwTNwqUiWvunuundDfN_0r1wlq7-oZu3dUd4MpMf3C9LsKmxow0TtMedNRBfOSYxUwpLyxHp2oIzCawkhp-s_0NQhR8lLThoqewHbhxFv5O9AL695wDbskQplwf4ZMYOCcD_BhiditUCVWXxMVShGbAGg0_m4Fqk-TvCHCffKJUwtsqKUNiKOTZyEH90-MGjLCWrDYa8dVmOvF-AuRflFiNn7it1kLZVe0VT1HTpCjnPDiCdP0ku1RjdGTSSMn_Vw5eWpz4hMlZ-ll8RSPq9dpvXt6T0UbcQCb9SMbm9wcnXlpA7p3z9PBaQrSiGXFcHz9ADFedvSgAjo5aK2AxrBdJc1c69fBhMubN2O0FWl0aZ24ismKxeoi8kleIguVgPFIzJ8gfkP25-ztYWW3Y9G9MQODI1FHI4ksqwtpSViwNCNdDw3kWGxBS1d8pAVXUueYFVXovn7hhoWqLDcye3w96QgIoCVuQhtSlb9hxaWATwDIqN0kIy6-vQSpv8SNLPkyFgqdOlM2nQXHikKTzRpbadnCXOxbvopcFfa2lP2Y7ozFGv0YWMFEePHUzacCg6LrkhxJ7WgBqeYqbzTzxptAUP5RG_cVdt-L6G4KCxtbggFd3ep44Uowj3W7DOmMa9WJ7qKT-2uJ5CazYbUnc6hjY7QDjTbX1CePbF0YjMSgZLaNj1bIWUe7UZdi7fczhgk3Roz65ibB8NSzFiLvKkJKWHL2eic49u7i5hH0Q8jwyleg_TQRBpnkrYHLx4NTSRvtd7d6lgUZCL6Oqvn_Y7W5JuxX4MHuBxXhRHBx4l4WauVyApU3Wib8RygMGoE_TefoNKyeGhZa1D-a7g84r5JUkqeC3pr_-6BqPF-v0JNt8LrHkL2R_Egea5b1GyBZNPW_vfi81QVFCNvpCfl6AZ_t7ShZvJLI7ECBnN4mWvd9rPsz4MnQq3QwCHr2fgdLeRNRVidlRY_otLzpIC5CBwiVi0WCkTmDwA70wzPDtCAOIk6qn5IcKZVgxJX3JNPghy8dTPtMWUJz8Ko_VJKq3eJOTit33iheq_kkPHNczvQrp-izvQn1hZwsnN4c2nzsQLxU6whcAHNeRpZIy1zknHLUfd376yhzEl0zjmKhcSGNxV_7nAzYFwCuuI0k4tqEjA0PYGGX3309eSBQBM3ZLOnDoW-EN_reFULE_WC9Zk6hmh1-1FGRnVuTEchI8bMdS9Zs-OulYm2OFHYC6bWlia1QZiQYSGbe6mc85dxsXAp7MBRR3PLoCqlSpY0WugEXpgbAkUME9TgZh8dySn_8MjZ7JjkQwheUg0Z_-Tm0_RyP-hDlMmZc0eJeQn2yUFgYiIQpLotj1x7CAiIZemHea5GHJ74j33-WMOSBhSFBhi9ceVQ9tdzhXOsqXW-bLHRwMAS9FDYWgTwWI5CdZNsu-ZULCoMKM3brOU5ZLhsLtNh1sGDviO1xAhTxI2avhmpajEUFHJRrWyg2pMK43LZnkP_q20MEczq6FwfiqvE8UiYq9DLfS?authuser=1&nonce=1kh9uqln99o94&user=106499948043956930307&hash=qpdquinihbh80updj281s8flqsn1ci29)執行
+- 開放官方**可選檢定規則「以代價獲得成功」** (規則書第45頁)
+- 開放官方**可選衝突規則「伏擊和突襲」「衝突之外的參與者」「戰鬥優勢」**(規則書第84)![[image-5.png]]
+
+**安全規範**
+- 界限： 跟GM開小房間、負面意象
+- 面紗： 色色、暴力血腥(分屍、虐待屍體)
+- 備註：遇到NG部分可以舉X卡
+
+---
+# [創作角色卡](https://www.bilibili.com/video/BV1NxCWYxEUn?vd_source=ce1d8a994793ecaf6dd6fbdfc621da64&spm_id_from=333.788.player.player_end_recommend) 
+
+| 玩家      | 跑過的系統                           | 備註           |
+| ------- | ------------------------------- | ------------ |
+| Zhizhi  | coc dnd 如此這般傳奇 怪物心 最終物語 夕燒 垃圾朋友 | 召募人          |
+| 阿法ʕ•ᴥ•ʔ | COC、DND、PBTA、元年引擎               | FU新人         |
+| 雪棉花糖    | Coc dnd insan                   | FU新人、護理師工作很忙 |
+| toki    | DND、COC、FU                      | FU老人         
+
+**成為英雄的必要條件**
+*必須是達成一件星星認可的傳說，並且被世人承認的居民才能成為英雄。以下是傳說的範例列表*
+1.  打倒一隻神話生物
+2. 探索新的地區
+3. 發現從未有人發現的新知識
+4.  拯救一座城邦免於毀滅
+5.  創造影響深遠的藝術或科技
+6. 獲得神祇或星星的直接試煉並通過
+
+**英雄的特權**
+*作為一名星星眷顧的英雄，你們享有自由使用魔力的特權，但是因為肉體的限制不能無限使用。*
+- 不限職業都可以使用「儀式」(規則書第118頁)，秘儀師的阿爾卡納不在此列。
+- 每次衝突場景開始前，法職可以重新設置咒文，但是有3項限制條件：
+	1. 僅更換同學派同等級的咒文。
+	2. 衝突場景前就要宣告要使用的咒文，不得在場景中突然換咒文。
+	3. 咒文解釋權歸GM所有
+- 每次衝突場景開始前，未學習咒文的英雄享有額外的「研究」動作及調整值+2的加成
+
+**英雄加入這次冒險的動機**
+*作為城邦的最高位者，你為何加入這次的冒險呢?*
+1. **尋求知識** —— 希望從蛇夫座的「魔術」中學習新技術，讓自己的城邦更強盛。  
+2. **解開預言** —— 星星給予了神秘啟示，自己必須前往蛇夫座尋找答案。  
+3. **拯救親人** —— 至親因不明原因被帶往蛇夫座，必須親自前去交涉。  
+4. **建立聯盟** —— 這場戰亂影響整個大陸，尋求與蛇夫座合作的可能性。  
+5. **尋找失落之物** —— 某件傳說中的神器或知識藏於蛇夫座，這次冒險的目的就是尋回它。  
+6. **改變命運** —— 星星的庇護並非永恆，或許蛇夫座掌握著改變整個世界的關鍵。  
+
+**備註：** 角色卡請在**下周五晚上12點前繳交並審卡**
+
+# 房間資訊
+
+**使用平台：** TRPG網頁版
+**房間號碼：** 52303
+**房間密碼：** 123321
+**說明：**
+- 完成審卡之後麻煩把在網頁版建立角色
+- 角色卡至少需要「角色姓名」和「角色形象圖」
+---
+- [[【模組】最終物語FU-黑暗森林]]
+- [【黑暗森林】自動角卡 | 合集](https://docs.google.com/spreadsheets/d/1rF9ex9Lawg_dHI1j5HPrJl5gnoB5QWLOqGpy8WNje_M/edit?gid=1649970926#gid=1649970926)
+- [【教學與經驗】 備團與運行團務的技巧](https://bbs.trpgrc.com/showthread.php?tid=2562)
+- [[【TRPG】團務點子]]

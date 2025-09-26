@@ -1,0 +1,336 @@
+{
+  "main": {
+    "id": "6e12bf6f9dda9daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "322111f872c8d40c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56ecd1d9d346100d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Literature note/文章/【基督】生命讀經活動「加拉太」0915-1030.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "【基督】生命讀經活動「加拉太」0915-1030"
+            }
+          },
+          {
+            "id": "a7789ba1212f2320",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "04 Project-related note/!【團務】黑暗森林-Dou/模組牆.canvas",
+                "viewState": {
+                  "x": -4511.053728399831,
+                  "y": 830.3741066100699,
+                  "zoom": -0.6666666666666667
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "模組牆"
+            }
+          },
+          {
+            "id": "db8e193c6b04e1f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Permanent note/000 效率實用/【MOC】我的個人管理系統索引.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "【MOC】我的個人管理系統索引"
+            }
+          },
+          {
+            "id": "9056fdd3d5de10de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f6a485c384f122b",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b9ad08c61bedb38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63417543adc7a30f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "b1b50c7244e0bcca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "718be30f9b1446ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286.5110321044922
+  },
+  "right": {
+    "id": "b212e40ea713d74f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e82251db9cf08321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31a72b8c238fdf92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 Permanent note/100 原創/110 蘭博大陸/貓又.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "貓又 的大綱"
+            }
+          },
+          {
+            "id": "1da6a21e48a38a5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Inbox/【系統】我的個人管理系統.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "【系統】我的個人管理系統 的反向連結"
+            }
+          },
+          {
+            "id": "1ff509b41137fedd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的對外連結"
+            }
+          },
+          {
+            "id": "6cdc70ab9f3358cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "646502bb89e306b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "0114fd15bf255dcc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f1a6351f32059ef1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:建立新的 base": false,
+      "templates:插入模板": false,
+      "audio-recorder:開始/停止錄音": false,
+      "graph:查看關聯圖": false,
+      "switcher:開啟快速切換": false,
+      "canvas:建立新畫布": false,
+      "command-palette:開啟命令面板": false,
+      "workspaces:管理工作區配置": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "markdown-importer:開啟 Markdown 格式轉換器": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9056fdd3d5de10de",
+  "lastOpenFiles": [
+    "01 Fleeting note/202503201143 B站四大邪神.md",
+    "attachments/0d17d39e621bc52a7abfb1993bf2c5c5-CE4DE.jpg",
+    "03 Permanent note/000 效率實用/【MOC】Obsidian 操作索引.md",
+    "My Note",
+    "README.md",
+    "MyNote/README.md",
+    "MyNote",
+    "03 Permanent note/000 效率實用/【解決】錄製跑團影片的時候OBS 輸出的影片沒有聲音要怎麼處理.md",
+    "02 Literature note/文章/【基督】生命讀經活動「加拉太」0915-1030.md",
+    "03 Permanent note/000 效率實用/【MOC】我的個人管理系統索引.md",
+    "04 Project-related note/!【團務】黑暗森林-Dou/模組牆.canvas",
+    "00 Inbox/白阿司（bios）.md",
+    "02 Literature note/ChatGPT/【解釋】OTP簡訊.md",
+    "02 Literature note/ChatGPT/【基督】讀聖經的方法.md",
+    "03 Permanent note/000 效率實用/【家電維修】如何更換洗衣機的水龍頭水管.md",
+    "02 Literature note/文章/【個人管理】《搞定》讀後心得：時間管理必讀經典書、我的實踐與調整.md",
+    "01 Fleeting note/202501191232 基督中帳目的內容.md",
+    "01 Fleeting note/202503301056 蘭博大陸-星星與星座.md",
+    "04 Project-related note/!【團務】黑暗森林-Dou/【任務】黑暗森林S0聚會.md",
+    "04 Project-related note/!【團務】黑暗森林-Dou/【團務紀錄】最終物語FU-黑暗森林.md",
+    "02 Literature note/視頻/【Obsidian】Obsidian 第三方插件.md",
+    "02 Literature note/文章/【卡片盒筆記法】如何搭建寫筆記和找筆記都方便的個人知識庫.md",
+    "01 Fleeting note/202502011952 卡片盒筆記法的一些小想法.md",
+    "01 Fleeting note/202509142314 縮短DDL&加大失敗的後果，提升計畫的達成率.md",
+    "02 Literature note/文章/【個人管理】在滴答清单中实践 GTD.md",
+    "03 Permanent note/100 原創/110 蘭博大陸/貓又.md",
+    "02 Literature note/網頁/【任務管理】10分钟学会使用GTD做任务管理 - 少数派.md",
+    "03 Permanent note/100 原創/110 蘭博大陸/《三律三性》.md",
+    "01 Fleeting note/202504061101 主日聚會詩歌順序.md",
+    "02 Literature note/文章/【基督】主日聚會的詩歌原則.md",
+    "02 Literature note/文章/未命名",
+    "04 Project-related note/!【團務】黑暗森林-Dou/NPC圖鑑.canvas",
+    "attachments/線索_位面模型.jpg",
+    "attachments/地圖_觀星鎮.png",
+    "02 Literature note/口傳/基督",
+    "attachments/image-58.png",
+    "attachments/image-57.png",
+    "attachments/image-56.png",
+    "attachments/image-55.png",
+    "attachments/image-54.png",
+    "attachments/image-53.png",
+    "attachments/image-52.png",
+    "attachments/補充本.pdf",
+    "attachments/大本詩歌 1.pdf",
+    "attachments/大本詩歌.pdf",
+    "attachments/stopbleedbanding.pdf",
+    "00 Inbox/未命名.base",
+    "02 Literature note/視頻/古典音樂",
+    "04 Project-related note/【團務】Milla 米菈-Toki/線索牆.canvas"
+  ]
+}

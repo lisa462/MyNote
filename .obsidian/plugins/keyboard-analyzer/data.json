@@ -1,0 +1,18 @@
+{
+  "showStatusBarItem": true,
+  "filterSettings": {
+    "FeaturedFirst": false,
+    "StrictSearch": false,
+    "HighlightCustom": false,
+    "HighlightDuplicates": false,
+    "DisplayWOhotkeys": false,
+    "DisplayIDs": false
+  },
+  "featuredCommandIDs": [
+    "switcher:open",
+    "zk-prefixer",
+    "command-palette:open",
+    "app:open-settings",
+    "obsidian-excalidraw-plugin:insert-link"
+  ]
+}

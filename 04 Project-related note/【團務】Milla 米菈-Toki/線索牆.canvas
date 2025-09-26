@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"5aa9e8656427c679","type":"group","x":1933,"y":-354,"width":1727,"height":840,"label":"米菈鎮/起始之鎮"},
+		{"id":"947204a417feb4a6","type":"file","file":"04 Project-related note/【團務】Milla 米菈-Toki/【地點】市政廳.md","x":1953,"y":-334,"width":400,"height":400},
+		{"id":"a582e905502f1c03","type":"file","file":"04 Project-related note/【團務】Milla 米菈-Toki/【地點】米菈鎮教會.md","x":2353,"y":-334,"width":400,"height":400},
+		{"id":"3884b25a8ec8d263","type":"file","file":"04 Project-related note/【團務】Milla 米菈-Toki/【地點】米菈鎮拓荒物流中心.md","x":2840,"y":-334,"width":400,"height":400},
+		{"id":"c7c3fcb5924a64f8","type":"file","file":"04 Project-related note/【團務】Milla 米菈-Toki/【地點】米菈拓荒協會聯合辦事處.md","x":3240,"y":-334,"width":400,"height":400},
+		{"id":"e59991b341d5bfc9","type":"file","file":"04 Project-related note/【團務】Milla 米菈-Toki/【地點】安格森酒館（Angersen Tavern）.md","x":2840,"y":66,"width":400,"height":400},
+		{"id":"32ba37892a60bf36","type":"file","file":"04 Project-related note/【團務】Milla 米菈-Toki/【地點】米菈鎮初級研究站.md","x":1953,"y":66,"width":400,"height":400},
+		{"id":"9b39d26881e61758","type":"file","file":"04 Project-related note/【團務】Milla 米菈-Toki/【地點】米菈鎮鎮民中心（Civic Haven）.md","x":2353,"y":66,"width":400,"height":400},
+		{"id":"3c47c08680395d38","type":"file","file":"04 Project-related note/【團務】Milla 米菈-Toki/【地點】史萊雅雜貨鋪.md","x":3240,"y":66,"width":400,"height":400},
+		{"id":"e50b821953e2a9e8","type":"text","text":"【委託】[[【NPC】艾米亞．蘿特（Emia Roth）]]\n任務：\n帶一些邊角料和數據回到研究站。\n\n來回預計時間6天。\n報酬：500z","x":3520,"y":686,"width":340,"height":194,"color":"3"},
+		{"id":"fde0f66d501782f5","type":"text","text":"【委託】[[【NPC】林 毅（Lin Yi)]]\n任務：\n運送藥物至格林威爾。\n\n來回預計時間6天。\n報酬：500z","x":3900,"y":716,"width":340,"height":166,"color":"3"},
+		{"id":"5c10928e1438131a","type":"text","text":"格林威爾(礦石鎮)\n參加者：莉塔、莉莉亞、克羅伊、墨丘利\n線索：\n- 往格林威爾方向的時候，計數器的數字漸漸向上的\n- 遭遇草地妖精，魔力酒醉的現象(計數器高到異常的程度)\n- 礦坑躲人。有找人來抓但是人數太多，最終結果是躲在裡面的人殘的殘，死的死。(問礦工)\n- 位於小鎮南方的廢棄礦坑\n- 賈帕去送藥物，去了南邊的臨時醫院\n- 臨時醫院的病人的傷口都是很漂亮的斷面。外面有很多屍骸。\n- 病人的回答是他們對於受傷的記憶記不太清楚。\n- 病人的證詞：礦洞那邊有東西在，會移動、進來。(胡言亂語)\n- 押送犯人約翰(叛亂，討厭帝國人)\n- **精煉礦物，原礦但結晶程度高到讓人疑惑為什麼會出現在這邊。**\n- 靈魂之海波動，魂爆了~\n- 人形的怪物向米菈鎮的方向鞠躬","x":3505,"y":1040,"width":370,"height":640},
+		{"id":"e7c6b987bdb5622e","type":"text","text":"【委託】前往收貨站取貨-[[【NPC】荷洛茲博士（Dr. Heloz）]]\n- 沒收到，因為亞塔鎮的製造商沒給。","x":2141,"y":961,"width":235,"height":175,"color":"2"},
+		{"id":"cb451d6351f2d36f","type":"text","text":"【委託】by [[【NPC】阿姆斯壯．詹森（Armstrong Jensen）]]\n任務：\n從亞塔鎮帶回玉米\n\n來回預計時間4天。\n報酬：500z/人","x":2134,"y":1220,"width":250,"height":240,"color":"3"},
+		{"id":"1109e8a726fef61f","type":"text","text":"【專有名詞】天鎖\n一種能把不存在的生物固定在現世的道具。","x":3185,"y":1040,"width":250,"height":86,"color":"1"},
+		{"id":"cd9e27c6fc9bbbfb","type":"text","text":"**遺跡營地**\n參與者：多納爾、莉莉安、墨丘利\n線索：\n- 三天內沒有成果就要把遺跡炸掉。\n- 科爾，二科的底層執行者，博學士精通\n- 要送東西過去觀測站，順便要一些其他的數字回來。報酬美人400z，會跟- 史塔森車隊過去。時間10天\n- 掏出1500zenite給D\n- 光榮抵抗軍，死神也出沒\n- 邊境死神安森的傳說\n- 米特的專長是遠距離狙擊\n\n**星殞觀測站**\n- S或T\n- 老K，25371642，第二組和第三組的資料\n- 晚點找史塔森搬貨\n\n**星殞觀測站-會客室**\n- 遇見M的老哥\n- 紀錄某個時間段的紀錄-恆河沙\n- 研究員對48號做什麼\n- A.G 命令要銷毀48號以及觀測站所有東西\n- 白色長髮及腰的女性跟48號說話。 白女：你真以為這是世界末日嗎?為人類的存續毀滅吧。48號GG， 1300年前\"4月32號\"\n- 400年 礦石，遺跡靈壓異常(極大的低壓-颱風)\n- 星殞觀測站有價值的資料和人員都沒事了","x":3085,"y":1173,"width":335,"height":916},
+		{"id":"c26db26d3e6d7bc1","type":"text","text":"**格林威爾礦坑探看**\n- 礦坑的鬼故事：鬧鬼故事：在礦坑思考的時候，會遇見熟悉的人把人誘惑到礦坑深處。而那人再也不會回來。 (礦坑會引誘人，把人抓進去變成礦石)\n- 找人，所以跟約瑟芬老闆和賈帕醫生進去礦坑\n- 聽見高頻率的聲音，似乎和礦石有關\n- 礦石的成長方向一致\n- 卡馬文珈(10Y) 維尼修斯(5Y) 戴爾(3Y)有做過相關研究。卡馬文珈：提出外洩晶礦理論 維尼修斯 戴爾：提出文明遺留理論\n- 礦石是帝國有關部門把空氣中的魔力結晶化。\n- 死透的屍體。死因是脫水、營養不良。腳下有奇怪的刻文「我到了 在一起 永遠」\n- 獲得遺留的金幣\n- 米拉鎮的傳說：安潔莉卡透過牌技打倒過所有賭徒\n- 博士過世，收穫職業晶石：知識就是力量。生產時間3天前","x":2655,"y":1212,"width":345,"height":643},
+		{"id":"297c193556e079c8","type":"text","text":"協會任務版\n> 教會清掃人員（夏季換洗：100z/月，共三個月）\n> 外派安德觀測站紀錄員（200z/月）\n> 蓋格蟲潮毒化術後觀測人（1000z/月）","x":1723,"y":1220,"width":250,"height":275},
+		{"id":"9bfed3816355b8a3","type":"text","text":"【情報】[[【NPC】加萊斯．弗萊徹（Gareth Fletcher）]]“真要說的話帝國方面寄送過來的不會有什麼問題，但**最近往西方向的幾個鎮子的貨偶爾會斷供。** 這不是什麼正常的事情，不過還沒嚴重到會升級到工蜂出勤的標準，所以就有點尷尬。”","x":1668,"y":960,"width":360,"height":176},
+		{"id":"14f69134cffb2981","type":"text","text":"~~物流中心[[【NPC】斯卡雷特．米特（Scarlet Mitt)]]買了新車~~\n物流中心出現了一輛東南魔導工科送過來的新車(試作品未做評估)","x":2448,"y":990,"width":344,"height":116},
+		{"id":"dc76ae3784c1b107","type":"text","text":"研究站水質不好(已解決)\n- 常出現在礦坑一代的水質汙染現象。偶爾鑽探過深時會有出現的魔力汙染現象，對人體無害，但對於礦石驅動的機器會造成不太好的影響，容易造成機器過載的現象。","x":1988,"y":700,"width":555,"height":138},
+		{"id":"47a8979caa797456","type":"text","text":"【目標】調查水質汙然的源頭","x":1680,"y":739,"width":250,"height":60,"color":"1"},
+		{"id":"cfb329976aeef1db","type":"text","text":"氣候異常炎熱無風(夏天本來就這樣)","x":1828,"y":567,"width":250,"height":60},
+		{"id":"eaba4e3fbdfafbf0","type":"text","text":"【目標】建設小鎮的恆溫機器\n- 恆溫柱(1500)","x":2154,"y":540,"width":250,"height":114,"color":"1"},
+		{"id":"c3ab5e9d713fa1db","type":"text","text":"【委託】[[【NPC】米婭．米斯克（Mia Misk）]]\n任務：\n把人從南方的格林威爾送回來。\n\n來回預計時間6天。\n報酬：500z","x":3140,"y":686,"width":340,"height":196,"color":"3"}
+	],
+	"edges":[
+		{"id":"a637afa0cbf61e1a","fromNode":"47a8979caa797456","fromSide":"right","toNode":"dc76ae3784c1b107","toSide":"left"},
+		{"id":"82c88796c57d82f9","fromNode":"cfb329976aeef1db","fromSide":"right","toNode":"eaba4e3fbdfafbf0","toSide":"left"},
+		{"id":"8458a7b91ec31edd","fromNode":"e7c6b987bdb5622e","fromSide":"right","toNode":"14f69134cffb2981","toSide":"left"},
+		{"id":"ae7716bad1732c53","fromNode":"9bfed3816355b8a3","fromSide":"right","toNode":"e7c6b987bdb5622e","toSide":"left"},
+		{"id":"3ca9ad9449a23249","fromNode":"297c193556e079c8","fromSide":"top","toNode":"9bfed3816355b8a3","toSide":"bottom"},
+		{"id":"0ae218b67c6e1500","fromNode":"cb451d6351f2d36f","fromSide":"top","toNode":"e7c6b987bdb5622e","toSide":"bottom"},
+		{"id":"c45eb0f0fbae9d0b","fromNode":"c3ab5e9d713fa1db","fromSide":"bottom","toNode":"5c10928e1438131a","toSide":"top"},
+		{"id":"32750e7d11287d20","fromNode":"e50b821953e2a9e8","fromSide":"bottom","toNode":"5c10928e1438131a","toSide":"top"},
+		{"id":"451b5d4de5765735","fromNode":"fde0f66d501782f5","fromSide":"bottom","toNode":"5c10928e1438131a","toSide":"top"}
+	]
+}

@@ -1,0 +1,41 @@
+{
+  "editor:delete-paragraph": [],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ],
+  "keyboard-analyzer:show-shortcuts-analyzer-view": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "pdf-plus:toggle-auto-focus": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ]
+}
